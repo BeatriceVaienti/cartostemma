@@ -60,7 +60,7 @@ then rows of `mapX, mapY, sourceX, sourceY[, ...]` control-point pairs
 corresponding pixel coordinates in the map image). Map dates are parsed
 from the folder-name prefix (`1841_...`).
 
-### Interchange — the collation matrix (the stable API boundary)
+### The collation matrix (the stable API boundary)
 
 The geospatial front half and the stemma back half communicate through one
 documented artefact, **not** pickled Python objects:
@@ -158,10 +158,6 @@ stemma:
   area_buffer: 100.0
 ```
 
-Loci are classified corpus-wide, then restricted to the area, so "innovation"
-still means first-in-corpus. For a local stemma, pair an area with a finer grid
-(`grid.size_m: 50`, vs. 150 for the global run) — as in the paper's case studies.
-
 ## Tests
 
 ```bash
@@ -171,8 +167,7 @@ pytest
 
 Unit tests exercise each engine stage (discretization, collation, area
 selection, single-ancestor and triplet pruning / inheritance ratio, graph
-construction) on small synthetic inputs — no geospatial stack or real data
-required.
+construction) on small synthetic inputs.
 
 ## Citation
 
