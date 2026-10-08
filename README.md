@@ -13,13 +13,12 @@ Humanities*). See [`CITATION.cff`](CITATION.cff).
 
 The paper's own results (the Jerusalem corpus's collation matrix, computed
 stemma edges, and map bibliographic metadata) are included here as worked
-example data -- [`examples/jerusalem/`](examples/jerusalem/) -- and are also
-archived separately with a permanent DOI for citation: **[DOI link, to be
-added]**. `collation_matrix.parquet` + `maps.csv` from either copy are valid
-input to `cartostemma stemma` as-is -- the paper's stemma can be reproduced
-without the map images, which neither this repository nor that dataset
-redistribute (see [`examples/jerusalem/README.md`](examples/jerusalem/README.md)
-for why).
+example data -- [`examples/jerusalem/`](examples/jerusalem/) -- and are
+covered by this repository's Zenodo archive above, with the rest of the
+code. `collation_matrix.parquet` + `maps.csv` there are valid input to
+`cartostemma stemma` as-is -- the paper's stemma can be reproduced without
+the map images, which this repository does not redistribute (see
+[`examples/jerusalem/README.md`](examples/jerusalem/README.md) for why).
 
 ## Installation
 

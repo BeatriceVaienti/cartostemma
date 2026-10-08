@@ -6,8 +6,9 @@ the stemmatic analysis of 200 maps of Jerusalem (1810-1925), and the
 bibliographic metadata for each map. It does **not** contain the map
 images themselves; see "Map images" below. It's included here as worked
 example input/output for this package (see "Reproducing the paper's
-results" below) and is also archived separately with a permanent DOI for
-citation: **[DOI link, to be added]**.
+results" below); this repository as a whole, data included, is archived
+on Zenodo with a permanent DOI -- see the badge/citation in the top-level
+[`README.md`](../../README.md).
 
 Produced with this package at the parameters listed in `parameters.yaml`.
 
@@ -97,7 +98,7 @@ clustering thresholds, pruning method, display thresholds, clone groups).
 
 `collation_matrix.parquet` + `maps.csv` together are exactly the input
 `cartostemma stemma` expects (see the
-[`cartostemma` package](https://github.com/<repo>)), so the paper's stemma
+[`cartostemma` package](https://github.com/BeatriceVaienti/cartostemma)), so the paper's stemma
 can be reproduced from this release alone -- no map images needed:
 
 ```bash
