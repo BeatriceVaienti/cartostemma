@@ -1,5 +1,7 @@
 # cartostemma
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23239666.svg)](https://doi.org/10.5281/zenodo.23239666)
+
 **Automated cartographic stemmatology.** 
 Reconstructs genealogical relationships among historical maps of the same
 geographic area from their planimetric distortions, adapting stemmatological

@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the preferred-citation below (the paper it accompanies)."
 title: "cartostemma"
+doi: 10.5281/zenodo.23239666
 authors:
   - family-names: Vaienti
     given-names: Beatrice
