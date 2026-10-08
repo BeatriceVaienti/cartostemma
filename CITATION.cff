@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper it accompanies."
+title: "An Automated Approach to Cartographic Stemmatology"
+authors:
+  - family-names: Vaienti
+    given-names: Beatrice
+  - family-names: di Lenardo
+    given-names: Isabella
+  - family-names: Kaplan
+    given-names: Frédéric
+# Journal: Digital Scholarship in the Humanities.
+# DOI, volume, issue and year to be filled in once the paper is published.

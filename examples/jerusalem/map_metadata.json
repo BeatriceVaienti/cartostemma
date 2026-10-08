@@ -1,0 +1,3862 @@
+[
+  {
+    "map_id": "18--_unknown",
+    "merged_witness_id": "18--_unknown",
+    "title": "Plan von Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "18??-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "de",
+    "paper_extent": "30.6 x 21.5 cm",
+    "scale": null,
+    "nli_code": "990023682370205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023682370205171/NLI#$FL184621639"
+  },
+  {
+    "map_id": "18--_unknown_2",
+    "merged_witness_id": "18--_unknown_2",
+    "title": "Hsieh-lu-sa-ling",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "18??-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "zh",
+    "paper_extent": "21 x 14 cm",
+    "scale": "",
+    "nli_code": "990023682390205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023682390205171/NLI#$FL169299521"
+  },
+  {
+    "map_id": "1810_clarke",
+    "merged_witness_id": "1810_clarke",
+    "title": "A New Plan of Jerusalem, in which some attempt is made to reconcile Historical Documents, with Existing Phaenomena; adapted by the Author to his own personal Observation on the Spot",
+    "mapmakers": [
+      "Edward Daniel Clarke"
+    ],
+    "surveyors": [
+      "Edward Daniel Clarke"
+    ],
+    "engravers": [
+      "Samuel John Neele"
+    ],
+    "publishers": [],
+    "publication_date": "1812-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Image_taken_from_page_655_of_%27Travels_in_Various_Countries_of_Europe%2C_Asia_and_Africa._%28pt._1._Russia%2C_Tartary_and_Turkey.-pt._2._Greece%2C_Egypt_and_the_Holy_Land.-pt._3._Scandinavia.%29_%28With_plates%2C_including_a_portrait.%29%27_%2811001678446%29.jpg"
+  },
+  {
+    "map_id": "1818_sieber",
+    "merged_witness_id": "1818_sieber",
+    "title": "Karte von Jerusalem und seiner naechsten Umgebungen [cartographic material] / geometrisch aufgenommen von F.W. Sieber im Jahre 1818. ins reine gezeichnet von J. Wach. gestochen von J. Stoelzel.",
+    "mapmakers": [
+      "J. Wach"
+    ],
+    "surveyors": [
+      "Franz Wilhelm Sieber"
+    ],
+    "engravers": [
+      "J. Stoelzel"
+    ],
+    "publishers": [
+      "Martin Neureuter Buchhändler",
+      "Friedrich Fleischer"
+    ],
+    "publication_date": "1818-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "43.8x58.4 cm",
+    "scale": null,
+    "nli_code": "990023681850205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023681850205171/NLI#$FL31740086"
+  },
+  {
+    "map_id": "1821_unknown",
+    "merged_witness_id": "1821_unknown",
+    "title": "Plan of the modern Jerusalem Shewing the Positions of the Principal Mountains in and near this Holy City",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "Sidney Hall"
+    ],
+    "publishers": [],
+    "publication_date": "1821-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": "990023696590205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023696590205171//NLI#$FL7070917"
+  },
+  {
+    "map_id": "1822_richardson",
+    "merged_witness_id": "1822_richardson",
+    "title": "Ichnographical Plan of Jerusalem & its Environs",
+    "mapmakers": [
+      "Robert Richardson"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Thomas Cadell"
+    ],
+    "publication_date": "1822-04-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": "990023681680205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023681680205171/NLI#$FL7072127"
+  },
+  {
+    "map_id": "1823_westphal",
+    "merged_witness_id": "1823_westphal",
+    "title": "Jerusalem und seine nächsten Umgebungen",
+    "mapmakers": [
+      "Johann Heinrich Westphal"
+    ],
+    "surveyors": [
+      "Johann Heinrich Westphal"
+    ],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1825-01-01T00:00:00Z",
+    "survey_date": "1825-01-01T00:00:00Z",
+    "language": "German",
+    "paper_extent": null,
+    "scale": "1:2000",
+    "nli_code": null,
+    "url": null
+  },
+  {
+    "map_id": "1827_failoni",
+    "merged_witness_id": "1827_failoni",
+    "title": "Piano dell'Antica e Nuova Gerusalemme e Suoi Contorni",
+    "mapmakers": [
+      "Giovanni Failoni"
+    ],
+    "surveyors": [
+      "Giovanni Failoni"
+    ],
+    "engravers": [],
+    "publishers": [
+      "Pietro Bisesti"
+    ],
+    "publication_date": "1833-01-01T00:00:00Z",
+    "survey_date": "1827-01-01T00:00:00Z",
+    "language": "Italian",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": null
+  },
+  {
+    "map_id": "183-_starling",
+    "merged_witness_id": "183-_starling",
+    "title": "Jerusalem with its environs",
+    "mapmakers": [
+      "Thomas Starling"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Thomas Starling"
+    ],
+    "publishers": [
+      "Published by the Sunday School Union"
+    ],
+    "publication_date": "183?-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "54 x 76 cm",
+    "scale": null,
+    "nli_code": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jerusalem_with_its_environs_-_draw_and_engraved_by_Thomas_Starling_-_btv1b53119281d.jpg"
+  },
+  {
+    "map_id": "1835_catherwood",
+    "merged_witness_id": "1835_catherwood_G",
+    "title": "Plan of Jerusalem / By F.Catherwood. S.Bellin sculp.",
+    "mapmakers": [
+      "Frederick Catherwood"
+    ],
+    "surveyors": [
+      "Frederick Catherwood"
+    ],
+    "engravers": [
+      "Samuel Bellin"
+    ],
+    "publishers": [
+      "Frederick Catherwood"
+    ],
+    "publication_date": "1835-08-01T00:00:00Z",
+    "survey_date": "1835-07-01T00:00:00Z",
+    "language": "English",
+    "paper_extent": null,
+    "scale": "1:9600",
+    "nli_code": "997009584089605171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER997009584089605171/NLI#$FL165906236"
+  },
+  {
+    "map_id": "1835_catherwood_2",
+    "merged_witness_id": "1835_catherwood_G",
+    "title": "Plan of Jerusalem [cartographic material] : from actual survey / by F. Catherwood, Architect Colen's Lithography.",
+    "mapmakers": [
+      "Frederick Catherwood"
+    ],
+    "surveyors": [
+      "Frederick Catherwood"
+    ],
+    "engravers": [
+      "John H. Colen"
+    ],
+    "publishers": [
+      "Frederick Catherwood",
+      "John H. Colen"
+    ],
+    "publication_date": "1838-01-01T00:00:00Z",
+    "survey_date": "1835-07-01T00:00:00Z",
+    "language": "English",
+    "paper_extent": "198.5x144.5 cm",
+    "scale": "1:1420",
+    "nli_code": "990023702500205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990023702500205171/NLI#$FL7071926"
+  },
+  {
+    "map_id": "1835_catherwood_3",
+    "merged_witness_id": "1835_catherwood_G",
+    "title": "План Іерусалима [картографический материал]",
+    "mapmakers": [
+      "Frederick Catherwood"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Карт. завед. А. Ильина"
+    ],
+    "publication_date": "1865-01-01T00:00:00Z",
+    "survey_date": "1835-01-01T00:00:00Z",
+    "language": "ru",
+    "paper_extent": "27 x 21 cm",
+    "scale": null,
+    "nli_code": "990025682600205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990025682600205171/NLI"
+  },
+  {
+    "map_id": "1836_unknown",
+    "merged_witness_id": "1836_unknown",
+    "title": "Jerusalem and Places Adjacent",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1836-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/141_of_%27A_Topographical_Dictionary_of_Palestine_..._to_illustrate_the_geography_of_the_Holy_Scriptures%2C_etc%27_%2811012430315%29.jpg"
+  },
+  {
+    "map_id": "1837_dufour",
+    "merged_witness_id": "1837_dufour",
+    "title": "Plan of Jerusalem [cartographic material] / A.H. Dufour Del.",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "Auguste Henri Dufour"
+    ],
+    "publishers": [],
+    "publication_date": "1837-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "26.4x21.0 cm",
+    "scale": null,
+    "nli_code": "990023680540205171",
+    "url": "https://nli.org.il/en/maps/NNL_ALEPH990023680540205171/NLI#$FL7072535I"
+  },
+  {
+    "map_id": "1837_unknown",
+    "merged_witness_id": "1837_unknown",
+    "title": "Topographischer Plan von Jerusalem - Im Jahre 1837",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "Hermann Engel"
+    ],
+    "publishers": [],
+    "publication_date": "1839-01-01T00:00:00Z",
+    "survey_date": "1837-01-01T00:00:00Z",
+    "language": "German",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Topographischer_Plan_von_Jerusalem_-_Im_Jahre_1837.jpg"
+  },
+  {
+    "map_id": "1837_unknown_2",
+    "merged_witness_id": "1837_unknown_2",
+    "title": "Plan of Jerusalem, from modern survey, published by Samuel Bagster 1837",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "C Cobley"
+    ],
+    "publishers": [],
+    "publication_date": "1837-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "8.4 x 14 cm",
+    "scale": "",
+    "nli_code": "990039392230205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039392230205171/NLI#$FL45602947"
+  },
+  {
+    "map_id": "1840_renner",
+    "merged_witness_id": "1840_renner",
+    "title": "Karte von Palaestina nach Grimm, Berghaus und andern guten Huelfsmitteln Entworfen und gezeichnet von Pr. Ltn. Renner... In Stahl est. v. c. Ehricht in Halle.",
+    "mapmakers": [
+      "Pr. Ltn. Renner"
+    ],
+    "surveyors": [
+      "Julius L. Grimm",
+      "Heinrich Karl Wilhelm Berghaus"
+    ],
+    "engravers": [
+      "C. Ehricht"
+    ],
+    "publishers": [
+      "Simon Schropp & Ce"
+    ],
+    "publication_date": "1840-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "ger",
+    "paper_extent": "49 × 36 cm",
+    "scale": "",
+    "nli_code": "990023689820205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023689820205171/NLI#$FL201191485"
+  },
+  {
+    "map_id": "1841_aldrich_symonds",
+    "merged_witness_id": "1841_aldrich_symonds",
+    "title": "Plan of the town and environs of Jerusalem : From the original drawing of the survey made in the month of March 1841 / By Lieutts. Aldrich and Symonds... The writings added by the Revd. G. Williams... and the Revd. Robert Willis. Engraved by J.W. Lowry.",
+    "mapmakers": [
+      "George Williams",
+      "Robert Willis"
+    ],
+    "surveyors": [
+      "Edward Aldrich",
+      "John Frederick Anthony Symonds"
+    ],
+    "engravers": [
+      "Joseph Wilson Lowry"
+    ],
+    "publishers": [
+      "John William Parker"
+    ],
+    "publication_date": "1849-03-01T00:00:00Z",
+    "survey_date": "1841-03-01T00:00:00Z",
+    "language": "English",
+    "paper_extent": "63x71 cm",
+    "scale": null,
+    "nli_code": "990028104200205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990028104200205171/NLI#$FL10591189"
+  },
+  {
+    "map_id": "1841_kiepert",
+    "merged_witness_id": "1841_kiepert_G",
+    "title": "Plan of Jerusalem : sketched from Sieber and Catherwood, corrected by the measurements of Robinson and Smith / drawn by H. Kiepert",
+    "mapmakers": [
+      "Heinrich Kiepert"
+    ],
+    "surveyors": [
+      "Edward Robinson",
+      "Eli Smith"
+    ],
+    "engravers": [
+      "Heinrich Mahlmann"
+    ],
+    "publishers": [],
+    "publication_date": "1841-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": "1:10000",
+    "nli_code": "990023696610205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023696610205171/NLI#$FL7070935"
+  },
+  {
+    "map_id": "1841_kiepert_2",
+    "merged_witness_id": "1841_kiepert_G",
+    "title": "Plan von Jerusalem : entw. nach Sieber und Catherwood, berichtigt durch Beobaehtungen von Robinson und Smith / Entworfen u. gezeichnet von H. Kiepert. In Stein gest: von H.Mahlmann.",
+    "mapmakers": [
+      "Heinrich Kiepert"
+    ],
+    "surveyors": [
+      "Edward Robinson",
+      "Eli Smith"
+    ],
+    "engravers": [
+      "Heinrich Mahlmann"
+    ],
+    "publishers": [],
+    "publication_date": "1841-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "31.8x26.7 cm",
+    "scale": "1:10000",
+    "nli_code": "990023700220205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023700220205171/NLI#$FL7070712"
+  },
+  {
+    "map_id": "1842_bartlett",
+    "merged_witness_id": "1842_bartlett_G",
+    "title": "Modern Jerusalem",
+    "mapmakers": [
+      "William Henry Bartlett"
+    ],
+    "surveyors": [
+      "William Henry Bartlett"
+    ],
+    "engravers": [
+      "William Hughes"
+    ],
+    "publishers": [],
+    "publication_date": "1844-01-01T00:00:00Z",
+    "survey_date": "1842-01-01T00:00:00Z",
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/81_of_%27Walks_about_the_City_and_Environs_of_Jerusalem._%28Second_edition.%29%27_%2811024087375%29.jpg"
+  },
+  {
+    "map_id": "1842_bartlett_2",
+    "merged_witness_id": "1842_bartlett_G",
+    "title": "Jerusalem",
+    "mapmakers": [
+      "William Henry Bartlett"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1845-01-01T00:00:00Z",
+    "survey_date": "1842-01-01T00:00:00Z",
+    "language": "en",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/272_of_%27Observations_in_the_East%2C_chiefly_in_Egypt%2C_Palestine%2C_Syria%2C_and_Asia_Minor%27_%2811254529035%29.jpg"
+  },
+  {
+    "map_id": "1842_bartlett_3",
+    "merged_witness_id": "1842_bartlett_G",
+    "title": "Modern Jerusalem",
+    "mapmakers": [
+      "William Henry Bartlett"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1849-01-01T00:00:00Z",
+    "survey_date": "1842-01-01T00:00:00Z",
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/169_of_%27Scripture_Sites_and_Scenes%2C_from_actual_survey%2C_in_Egypt%2C_Arabia%2C_and_Palestine%2C_etc._%28By_William_Henry_Bartlett._With_plates_and_maps.%29%27_%2811030175144%29.jpg"
+  },
+  {
+    "map_id": "1843_ball",
+    "merged_witness_id": "1843_ball",
+    "title": "Plan von Jerusalem",
+    "mapmakers": [
+      "Karl Johannes Ball"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Pfeiffer & Koenen"
+    ],
+    "publishers": [],
+    "publication_date": "1843-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "15.7x18.2 cm",
+    "scale": null,
+    "nli_code": "990023668450205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023668450205171/NLI#$FL7073621"
+  },
+  {
+    "map_id": "1843_unknown",
+    "merged_witness_id": "1843_unknown",
+    "title": "Plan of Jerusalem from the map of Robinson and Smith",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Sidney E. Morse & Co."
+    ],
+    "publication_date": "1843-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "37.6 x 30.5 cm",
+    "scale": null,
+    "nli_code": "990039047840205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039047840205171/NLI#$FL46962084"
+  },
+  {
+    "map_id": "1844_unknown",
+    "merged_witness_id": "1844_unknown",
+    "title": "Syria and the Holy Land. Plan of Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1844-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Syria_and_the_Holy_Land_-_their_scenery_and_their_people_-_incidents_of_travel%2C_%26c._from_the_best_and_most_recent_authorities_%281844%29_%2814592538058%29.jpg"
+  },
+  {
+    "map_id": "1845_kiepert",
+    "merged_witness_id": "1845_kiepert",
+    "title": "Title :  Plan von Jerusalem nach den Untersuchungen / von Dr. Ernst Gustav Schultz, ... mit Benutzung der Pläne von Sieber und Catherwood und der Berichtigungen von Robinson und Smith. Gezeichn ; von Heinrich Kiepert",
+    "mapmakers": [
+      "Heinrich Kiepert"
+    ],
+    "surveyors": [
+      "Ernst Gustav Schultz",
+      "Edward Robinson",
+      "Eli Smith"
+    ],
+    "engravers": [
+      "v. L Preuss"
+    ],
+    "publishers": [],
+    "publication_date": "1845-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "51.0x70.5",
+    "scale": "1:6000",
+    "nli_code": null,
+    "url": "https://gallica.bnf.fr/ark:/12148/btv1b530999138"
+  },
+  {
+    "map_id": "1845_tobler",
+    "merged_witness_id": "1845_tobler",
+    "title": "Grundriss / von Jerusalem nach Catherwood und Robinson mit einem neu eingezeichneten Gassennetze und etlichen, theils zum ersten Male erscheenenden, theils berichtigten gräberplänen. Dr. Titus Tobler",
+    "mapmakers": [
+      "Titus Tobler"
+    ],
+    "surveyors": [
+      "Titus Tobler"
+    ],
+    "engravers": [
+      "Joh. Wurster und Comp."
+    ],
+    "publishers": [
+      "Huber und Comp."
+    ],
+    "publication_date": "1847-01-01T00:00:00Z",
+    "survey_date": "1845-01-01T00:00:00Z",
+    "language": "German",
+    "paper_extent": "47.5x62.0",
+    "scale": "1:6120",
+    "nli_code": "990034871160205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990034871160205171/NLI#$FL169298872"
+  },
+  {
+    "map_id": "1845_williams",
+    "merged_witness_id": "1845_williams",
+    "title": "Plan of Jerusalem",
+    "mapmakers": [
+      "George Williams"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "I. Dower"
+    ],
+    "publishers": [],
+    "publication_date": "1845-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": null
+  },
+  {
+    "map_id": "1846_krafft",
+    "merged_witness_id": "1846_krafft",
+    "title": "Plan von Jerusalem : nach der Untersuchungen / von Wilh. Krafft.",
+    "mapmakers": [
+      "Wilhelm Ludwig Krafft"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1846-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "35.0x27.0 cm",
+    "scale": null,
+    "nli_code": "990025313530205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990025313530205171/NLI#$FL7073061"
+  },
+  {
+    "map_id": "1846_vandevelde",
+    "merged_witness_id": "1846_vandevelde_G",
+    "title": "Plan of Jerusalem / constructed from the survey made by Lieut. Symonds... in March 1841, and from measurements by...Tobler in 1845&1846 by C.W.M. van de Velde, late Lieut...",
+    "mapmakers": [
+      "Charles William Meredith van de Velde"
+    ],
+    "surveyors": [
+      "Titus Tobler"
+    ],
+    "engravers": [],
+    "publishers": [
+      "Justus Perthes"
+    ],
+    "publication_date": "1858-01-01T00:00:00Z",
+    "survey_date": "1846-01-01T00:00:00Z",
+    "language": "English",
+    "paper_extent": "31.5x22.0 cm",
+    "scale": null,
+    "nli_code": "990023704650205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023704650205171/NLI#$FL7073653"
+  },
+  {
+    "map_id": "1846_vandevelde_2",
+    "merged_witness_id": "1846_vandevelde_G",
+    "title": "Plan de Jérusalem : construit d'après les relevés du Lt. Symonds R.E. anglais en Mars 1841 et du Dr. T. Tobler en 1845 et 1846 / Par C.W.M. van de Velde...Grave par F. Delamare.",
+    "mapmakers": [
+      "Charles William Meredith van de Velde"
+    ],
+    "surveyors": [
+      "Titus Tobler"
+    ],
+    "engravers": [
+      "F. Delamare"
+    ],
+    "publishers": [
+      "Imp. Lemercier"
+    ],
+    "publication_date": "1858-01-01T00:00:00Z",
+    "survey_date": "1846-01-01T00:00:00Z",
+    "language": "French",
+    "paper_extent": "35.5X25.7 cm",
+    "scale": null,
+    "nli_code": "990023681950205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023681950205171/NLI#$FL184621449"
+  },
+  {
+    "map_id": "1846_vandevelde_3",
+    "merged_witness_id": "1846_vandevelde_G",
+    "title": "Plan of Jerusalem / constructed from the survey made by Lieut. Symonds... in March 1841, and from measurements by...Tobler in 1845&1846 by C.W.M. van de Velde, late Lieut...",
+    "mapmakers": [
+      "Charles William Meredith van de Velde"
+    ],
+    "surveyors": [
+      "Titus Tobler"
+    ],
+    "engravers": [
+      "Hermann Eberhardt"
+    ],
+    "publishers": [
+      "Justus Perthes"
+    ],
+    "publication_date": "1858-01-01T00:00:00Z",
+    "survey_date": "1846-01-01T00:00:00Z",
+    "language": "English",
+    "paper_extent": "31.5x22.0 cm",
+    "scale": null,
+    "nli_code": "990023690940205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023690940205171/NLI#$FL199992311"
+  },
+  {
+    "map_id": "1848_gadow",
+    "merged_witness_id": "1848_gadow",
+    "title": "Jerusalem",
+    "mapmakers": [
+      "H. Gadow"
+    ],
+    "surveyors": [
+      "H. Gadow"
+    ],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1849-01-01T00:00:00Z",
+    "survey_date": "1848-01-01T00:00:00Z",
+    "language": "German",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": null
+  },
+  {
+    "map_id": "1851_unknown",
+    "merged_witness_id": "1851_unknown",
+    "title": "Plan of Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1851-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bible_dictionary_for_the_use_of_Bible_classes%2C_schools_and_families_%281851%29_%2814760863266%29.jpg"
+  },
+  {
+    "map_id": "1852_lange",
+    "merged_witness_id": "1852_lange",
+    "title": "Skizze eines Grundrisses von Jerusalem / Gezeichnet von H.Lange Lith. Anst.v.L.Kraatz in Berlin.",
+    "mapmakers": [
+      "Henry Lange"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Leopold Kraatz"
+    ],
+    "publishers": [],
+    "publication_date": "1852-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "27.6x26.3 cm",
+    "scale": "1:9600",
+    "nli_code": "990023698050205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990023698050205171/NLI"
+  },
+  {
+    "map_id": "1852_vandevelde",
+    "merged_witness_id": "1852_vandevelde_G",
+    "title": "Plan of Jerusalem : According to the original survey made in 1841, by Lieutts Aldrich and Symonds, Royal Engineerswith correction of the SW angle of the Temple wall 1852 / C.W.M. Van De Velde W. & A. K. Johnston.",
+    "mapmakers": [
+      "Charles William Meredith van de Velde"
+    ],
+    "surveyors": [
+      "Charles William Meredith van de Velde"
+    ],
+    "engravers": [
+      "A. K. Johnston"
+    ],
+    "publishers": [],
+    "publication_date": "1854-01-01T00:00:00Z",
+    "survey_date": "1852-01-01T00:00:00Z",
+    "language": "English",
+    "paper_extent": "19.5x21.4",
+    "scale": null,
+    "nli_code": "990039417010205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039417010205171/NLI#$FL45605186"
+  },
+  {
+    "map_id": "1852_vandevelde_2",
+    "merged_witness_id": "1852_vandevelde_G",
+    "title": "Plan von Jerusalem Nach d. Original Messungen der Kon. Britt Ingenieur Officieren Aldrich und Symonds in 1841, mit verbesserung der S.W.Ecke des Haram Mauers 1852 / C. W. M. van de Velde.",
+    "mapmakers": [
+      "Charles William Meredith van de Velde"
+    ],
+    "surveyors": [
+      "Charles William Meredith van de Velde"
+    ],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1856-01-01T00:00:00Z",
+    "survey_date": "1852-01-01T00:00:00Z",
+    "language": "German",
+    "paper_extent": "22.1x21.3",
+    "scale": null,
+    "nli_code": "990039286860205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039286860205171/NLI#$FL45585355"
+  },
+  {
+    "map_id": "1853_zimpel",
+    "merged_witness_id": "1853_zimpel",
+    "title": "Neue oertliche topografische Beleuchtung der heiligen Weltstadt Jerusalem",
+    "mapmakers": [
+      "Charles F. Zimpel"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Heinrich Bach",
+      "Franz Malté",
+      "F. Bohnert"
+    ],
+    "publishers": [
+      "E. Schweizerbart"
+    ],
+    "publication_date": "1853-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "de",
+    "paper_extent": "60 x 49.7 cm",
+    "scale": null,
+    "nli_code": "990023682230205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023682230205171/NLI#$FL184621516"
+  },
+  {
+    "map_id": "1854_coleman",
+    "merged_witness_id": "1854_coleman",
+    "title": "Ancient Jerusalem and Modern Jerusalem",
+    "mapmakers": [
+      "Lyman Coleman"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Presbyterian Board of Publication and Sabbath-School Work"
+    ],
+    "publication_date": "1854-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Ancient_Jerusalem_Modern_Jerusalem.jpg"
+  },
+  {
+    "map_id": "1854_unknown",
+    "merged_witness_id": "1854_unknown",
+    "title": "Plan de Jerusalem / Lith de Gratia, Gravee par Regnier",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "Charles Regnier",
+      "Dourdet"
+    ],
+    "publishers": [],
+    "publication_date": "1853-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "French",
+    "paper_extent": "15.7x23.5 cm",
+    "scale": null,
+    "nli_code": "990039305420205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039305420205171/NLI#$FL45588661"
+  },
+  {
+    "map_id": "1854_unknown_2",
+    "merged_witness_id": "1854_unknown_2",
+    "title": "Plan of Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1854-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "11x15 cm",
+    "scale": null,
+    "nli_code": "990039415810205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039415810205171/NLI"
+  },
+  {
+    "map_id": "1855_pierotti",
+    "merged_witness_id": "1855_pierotti",
+    "title": "Plan de Iérusalem / D. Ermete Pierotti Architetto Ing.re rilevo e disegno Niccola Cellai incise.",
+    "mapmakers": [
+      "Ermete Pierotti"
+    ],
+    "surveyors": [
+      "Ermete Pierotti"
+    ],
+    "engravers": [
+      "Nicola Cellai"
+    ],
+    "publishers": [],
+    "publication_date": "1855-01-01T00:00:00Z",
+    "survey_date": "1855-01-01T00:00:00Z",
+    "language": "Italian",
+    "paper_extent": "49.2x69.2 cm",
+    "scale": null,
+    "nli_code": null,
+    "url": null
+  },
+  {
+    "map_id": "1855_thrupp",
+    "merged_witness_id": "1855_thrupp",
+    "title": "Jerusalem. Based upon the English Ordnance Survey and on the map of Dr. Tobler",
+    "mapmakers": [
+      "Joseph Francis Thrupp"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1855-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/20_of_%27Antient_Jerusalem._A_new_investigation_into_the_history%2C_topography_and_plan_of_the_City%2C_environs%2C_and_Temple%27_%2811045586384%29.jpg"
+  },
+  {
+    "map_id": "1856_barclay",
+    "merged_witness_id": "1856_barclay",
+    "title": "Jerusalem and environs",
+    "mapmakers": [
+      "James Turner Barclay"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Louis N. Rosenthal"
+    ],
+    "publication_date": "1856-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": "990026610680205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990026610680205171/NLI#$FL169299294"
+  },
+  {
+    "map_id": "1856_kiepert",
+    "merged_witness_id": "1856_kiepert",
+    "title": "Plan of Jerusalem originally sketched from Sieber and Catherwood : corrected by the measurements of Robinson and Smith : the streets corrected from the plans of Tobler and the English engineers / engr. by L. Lipmann. From: Four maps to accompany the Biblical researches in Palestine of E. Robinson and E. Smith (Boston 1856)",
+    "mapmakers": [
+      "Heinrich Kiepert"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "L. Lipmann"
+    ],
+    "publishers": [],
+    "publication_date": "1856-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": null
+  },
+  {
+    "map_id": "1856_stanley",
+    "merged_witness_id": "1856_stanley",
+    "title": "Map of Jerusalem",
+    "mapmakers": [
+      "Arthur Penrhyn Stanley"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1856-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/234_of_%27Sinai_and_Palestine%2C_in_connection_with_their_history%27_%2811049984914%29.jpg"
+  },
+  {
+    "map_id": "1856_unknown",
+    "merged_witness_id": "1856_unknown",
+    "title": "Plan de la Jérusalem Hébraique et Chrétienne",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1856-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "fr",
+    "paper_extent": "63 x 47 cm",
+    "scale": null,
+    "nli_code": "990023695560205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990023695560205171/NLI#$FL184621662"
+  },
+  {
+    "map_id": "1856_unknown_2",
+    "merged_witness_id": "1856_unknown_2",
+    "title": "Pianta di Gerusalemme antica e moderna",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "Carlo Perrin"
+    ],
+    "publishers": [],
+    "publication_date": "1856-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "it",
+    "paper_extent": "28.9 x 24.5 cm",
+    "scale": null,
+    "nli_code": "990023698560205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023698560205171/NLI#$FL184621802"
+  },
+  {
+    "map_id": "1856_warburton",
+    "merged_witness_id": "1856_warburton",
+    "title": "Jerusalem",
+    "mapmakers": [
+      "John Seaton Warburton"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "John Seaton Warburton"
+    ],
+    "publishers": [
+      "T. Nelson and Sons"
+    ],
+    "publication_date": "1856-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "12.5 x 7.7 cm",
+    "scale": null,
+    "nli_code": "990037566880205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990037566880205171/NLI#$FL147425417"
+  },
+  {
+    "map_id": "1857_sherwin",
+    "merged_witness_id": "1857_sherwin",
+    "title": "Modern Jerusalem",
+    "mapmakers": [
+      "John H. Sherwin"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "L.N. Rosenthal"
+    ],
+    "publishers": [],
+    "publication_date": "1857-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/467_of_%27The_City_of_the_Great_King-_or%2C_Jerusalem_as_it_was%2C_as_it_is%2C_and_as_it_is_to_be._%28With_plates%2C_including_a_portrait.%29%27_%2811053292735%29.jpg"
+  },
+  {
+    "map_id": "1858_gratz",
+    "merged_witness_id": "1858_gratz",
+    "title": "Das Heutige Jerusalem",
+    "mapmakers": [
+      "Lorenz Clemens Gratz",
+      "J.B. Pfeifer"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "V. Dellinger"
+    ],
+    "publishers": [],
+    "publication_date": "1858-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "de",
+    "paper_extent": "28.5x22 cm",
+    "scale": null,
+    "nli_code": "997011418917605171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER997011418917605171/NLI#$FL198245548"
+  },
+  {
+    "map_id": "1858_vandevelde",
+    "merged_witness_id": "1858_vandevelde",
+    "title": "Plan of the town and environs of Jerusalem constructed from the English Ordnance Survey and measurements of Dr. T. Tobler by C.W.M. van de Velde... With Memoir by Dr. Titus Tobler. Engr. by Biedermann, Eberhardt and Stichardt.",
+    "mapmakers": [
+      "Charles William Meredith van de Velde"
+    ],
+    "surveyors": [
+      "Charles William Meredith van de Velde",
+      "Titus Tobler"
+    ],
+    "engravers": [
+      "Biedermann",
+      "H. Eberhardt",
+      "H. Stichardt"
+    ],
+    "publishers": [
+      "Justus Perthes"
+    ],
+    "publication_date": "1858-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "63.0x80.0 cm",
+    "scale": "1:4843",
+    "nli_code": "990023681940205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990023681940205171/NLI#$FL7072713"
+  },
+  {
+    "map_id": "1859_saintine",
+    "merged_witness_id": "1859_saintine",
+    "title": "Plan de Jérusalem moderne",
+    "mapmakers": [
+      "Gérardy Saintine"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "M. Villemin"
+    ],
+    "publishers": [],
+    "publication_date": "1859-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "fr",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:Le_Tour_du_monde-01-p392.jpg"
+  },
+  {
+    "map_id": "1859_saintine_2",
+    "merged_witness_id": "1859_saintine_2",
+    "title": "Plan de Jérusalem moderne",
+    "mapmakers": [
+      "Gérardy Saintine"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "M. Villemin"
+    ],
+    "publishers": [],
+    "publication_date": "1859-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "fr",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Le_Tour_du_monde-01-p411.jpg"
+  },
+  {
+    "map_id": "1859_unknown",
+    "merged_witness_id": "1859_unknown",
+    "title": "Platte Grond van Jeruzalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1859-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "nl",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/CONRAD%281859%29_p503_PLATTE_GROND_VAN_JERUZALEM.jpg"
+  },
+  {
+    "map_id": "1860_bartholomew",
+    "merged_witness_id": "1860_bartholomew",
+    "title": "Jerusalem : ancient & modern.",
+    "mapmakers": [
+      "John Bartholomew"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Blackie & Son",
+      "Blackie & Son",
+      "Blackie & Son"
+    ],
+    "publication_date": "1859-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "28.2x21.4 cm",
+    "scale": null,
+    "nli_code": "990023695970205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023695970205171/NLI#$FL184621740"
+  },
+  {
+    "map_id": "1860_pierotti",
+    "merged_witness_id": "1860_pierotti",
+    "title": "Plan de Jerusalem ancienne et moderne / par le Docteur Ermete Pierotti. Grave par Erhard Schieble.",
+    "mapmakers": [
+      "Ermete Pierotti"
+    ],
+    "surveyors": [
+      "Ermete Pierotti"
+    ],
+    "engravers": [
+      "Erhard Schieble"
+    ],
+    "publishers": [
+      "Eugene Florent Kaeppelin"
+    ],
+    "publication_date": "1858-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "French",
+    "paper_extent": "55.0x91.0 cm",
+    "scale": null,
+    "nli_code": "990023681470205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023681470205171/NLI#$FL188908542"
+  },
+  {
+    "map_id": "1860_pierotti_2",
+    "merged_witness_id": "1860_pierotti_2",
+    "title": "Plan de Jérusalem ancienne et moderne",
+    "mapmakers": [
+      "Ermete Pierotti"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": null,
+    "survey_date": "1860-06-01T00:00:00Z",
+    "language": [
+      "fr",
+      "it"
+    ],
+    "paper_extent": "26.5 x 29.5 cm",
+    "scale": "1:12,333",
+    "nli_code": null,
+    "url": null
+  },
+  {
+    "map_id": "1861_lionnet",
+    "merged_witness_id": "1861_lionnet",
+    "title": "Jerusalem",
+    "mapmakers": [
+      "Albert Lionnet"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Leopold Kraatz"
+    ],
+    "publishers": [],
+    "publication_date": "1861-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "de",
+    "paper_extent": "23.2 x 15.2 cm",
+    "scale": null,
+    "nli_code": "990023698770205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023698770205171/NLI#$FL7070564"
+  },
+  {
+    "map_id": "1861_mandrot",
+    "merged_witness_id": "1861_mandrot",
+    "title": "Plan de Jérusalem d'apres M. Van de Velde / dessiné par A. de Mandrot Lt. Colonel d'Etat Major. Lith. F. Gendre.",
+    "mapmakers": [
+      "Louis-Alphonse de Mandrot"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "F. Gendre"
+    ],
+    "publishers": [],
+    "publication_date": "1861-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "French",
+    "paper_extent": "19.4x21.9",
+    "scale": null,
+    "nli_code": "990023681270205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023681270205171/NLI#$FL7070598"
+  },
+  {
+    "map_id": "1862_devogue",
+    "merged_witness_id": "1862_devogue",
+    "title": "Plan topographique et archeologique de Jerusalem",
+    "mapmakers": [
+      "Melchior de Vogüé"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1862-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "fr",
+    "paper_extent": "48 x 38 cm",
+    "scale": "1:6,900",
+    "nli_code": null,
+    "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8490457q/f1/full/full/0/native.jpg"
+  },
+  {
+    "map_id": "1862_johnson",
+    "merged_witness_id": "1862_johnson",
+    "title": "Jerusalem. Johnson's Palestine",
+    "mapmakers": [
+      "Alvin Jewett Johnson"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1862-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:Map_of_Jerusalem._Johnson%27s_Palestine._1862.jpg#/media/File:Map_of_Jerusalem._Johnson's_Palestine._1862.jpg"
+  },
+  {
+    "map_id": "1863_gelis",
+    "merged_witness_id": "1863_gelis",
+    "title": "Nivellement de Jérusalem",
+    "mapmakers": [
+      "Charles Gelis"
+    ],
+    "surveyors": [
+      "Charles Gelis",
+      "Félicien de Saulcy"
+    ],
+    "engravers": [
+      "Erhard Schieble"
+    ],
+    "publishers": [
+      "Imp. Lemercier"
+    ],
+    "publication_date": "1865-01-01T00:00:00Z",
+    "survey_date": "1863-12-23T00:00:00Z",
+    "language": "French",
+    "paper_extent": null,
+    "scale": "1:5000",
+    "nli_code": "990017311590205171",
+    "url": "https://www.nli.org.il/en/books/NNL_ALEPH990017311590205171/NLI"
+  },
+  {
+    "map_id": "1863_pierotti",
+    "merged_witness_id": "1863_pierotti",
+    "title": "Plano de Jerusalem antigua y moderna",
+    "mapmakers": [
+      "Ermete Pierotti"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Erhard Schieble"
+    ],
+    "publishers": [
+      "Imp. Lemercier"
+    ],
+    "publication_date": "1863-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "es",
+    "paper_extent": "89.5 x 119 cm",
+    "scale": "1:5,000",
+    "nli_code": null,
+    "url": "https://bibliotecadigital.rah.es/es/consulta/registro.do?id=62503"
+  },
+  {
+    "map_id": "1864_mitchell",
+    "merged_witness_id": "1864_mitchell",
+    "title": "Modern Jerusalem. A New Map of Palestine or the Holy Land",
+    "mapmakers": [
+      "Samuel Augustus Mitchell"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "W. H. Gamble"
+    ],
+    "publishers": [],
+    "publication_date": "1864-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "40 x 83 cm",
+    "scale": null,
+    "nli_code": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/1864_Mitchell_Map_of_Palestine%2C_Israel_or_the_Holy_Land_-_Jerusalem_inset_map.jpg"
+  },
+  {
+    "map_id": "1864_pierotti",
+    "merged_witness_id": "1864_pierotti",
+    "title": "Plan of modern Jerusalem.",
+    "mapmakers": [
+      "Ermete Pierotti"
+    ],
+    "surveyors": [
+      "Ermete Pierotti"
+    ],
+    "engravers": [
+      "Day & Son"
+    ],
+    "publishers": [],
+    "publication_date": "1864-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": "997012428032405171",
+    "url": "https://www.nli.org.il/en/archives/NNL_ARCHIVE_AL997012428032405171/NLI#$FL207855777"
+  },
+  {
+    "map_id": "1865_fehr",
+    "merged_witness_id": "1865_fehr",
+    "title": "Kart over Jerusalem og Omegn / A/S P. M. Bye & Co. (L. Fehr's lith. Officin), Christiania",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "L. Fehr"
+    ],
+    "publishers": [
+      "P. F. Steensballes bokhandels eftfg. (H. Reenskaug)"
+    ],
+    "publication_date": "1865-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "no",
+    "paper_extent": "28.8 x 25.8 cm",
+    "scale": null,
+    "nli_code": "990039268820205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039268820205171/NLI#$FL45584539"
+  },
+  {
+    "map_id": "1865_riess",
+    "merged_witness_id": "1865_riess",
+    "title": "Plan von Jerusalem und seiner naechsten Umgebung / Riess hist.-geogr. Bibel Atlas.",
+    "mapmakers": [
+      "Richard Von Riess"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1865-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": "990023681690205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023681690205171/NLI#$FL7072559"
+  },
+  {
+    "map_id": "1865_sandreczki",
+    "merged_witness_id": "1865_sandreczki",
+    "title": "Ordnance Survey of Jerusalem [cartographic material] / The Survey was made in the Years 1864-5 by Captain Charles W. Wilson, R.E. and a party of Royal Engieers from the Ordnance Survey under the direction of Colonel Sir Henry James. Engraved at the Ordnance Survey Office, Southampton under the direction of Colonel J. Cameron, R.E.",
+    "mapmakers": [
+      "Carl Sandreczki"
+    ],
+    "surveyors": [
+      "Carl Sandreczki",
+      "Ohly, Chancellor of the Prussian Consulate",
+      "Yakûb-as-Saa'ty"
+    ],
+    "engravers": [
+      "Parsons"
+    ],
+    "publishers": [],
+    "publication_date": "1866-01-01T00:00:00Z",
+    "survey_date": "1865-01-01T00:00:00Z",
+    "language": "English",
+    "paper_extent": null,
+    "scale": "1:2500",
+    "nli_code": null,
+    "url": null
+  },
+  {
+    "map_id": "1865_unknown",
+    "merged_witness_id": "1865_unknown",
+    "title": "Plan von Jerusalem nach Tobler u. Van de Velde",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "Topographische Anstalt von Wurster, Randegger & Co."
+    ],
+    "publishers": [],
+    "publication_date": "1865-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "de",
+    "paper_extent": "22.3 x 19.6 cm",
+    "scale": null,
+    "nli_code": "990039305760205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039305760205171/NLI#$FL45588702"
+  },
+  {
+    "map_id": "1865_wilson",
+    "merged_witness_id": "1865_wilson_G",
+    "title": "Ordnance Survey of Jerusalem / By Captain W. Wilson, R.E. under the direction of Colonel Sir Henry James...1864-5. Engraved at the Ordnance Survey Office, Southampton under the direction of Colonel J. Cameron, R.E.",
+    "mapmakers": [
+      "Charles William Wilson"
+    ],
+    "surveyors": [
+      "Charles William Wilson",
+      "Henry James",
+      "James McDonald",
+      "F. Ferris",
+      "J. McKeith",
+      "J. Davidson",
+      "T. Wishart"
+    ],
+    "engravers": [
+      "John Cameron"
+    ],
+    "publishers": [],
+    "publication_date": "1866-01-01T00:00:00Z",
+    "survey_date": "1865-01-01T00:00:00Z",
+    "language": "English",
+    "paper_extent": "100.5x71.0 cm",
+    "scale": "1:2500",
+    "nli_code": "990023682150205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023682150205171/NLI#$FL47890686"
+  },
+  {
+    "map_id": "1865_wilson_2",
+    "merged_witness_id": "1865_wilson_G",
+    "title": "Ordnance Survey of Jerusalem [cartographic material] / The Survey was made in the Years 1864-5 by Captain Charles W. Wilson, R.E. and a party of Royal Engieers from the Ordnance Survey under the direction of Colonel Sir Henry James. Engraved at the Ordnance Survey Office, Southampton under the direction of Colonel J. Cameron, R.E.",
+    "mapmakers": [
+      "Charles William Wilson"
+    ],
+    "surveyors": [
+      "Charles William Wilson",
+      "Henry James",
+      "James McDonald",
+      "F. Ferris",
+      "J. McKeith",
+      "J. Davidson",
+      "T. Wishart"
+    ],
+    "engravers": [
+      "John Cameron"
+    ],
+    "publishers": [],
+    "publication_date": "1866-01-01T00:00:00Z",
+    "survey_date": "1865-01-01T00:00:00Z",
+    "language": "English",
+    "paper_extent": "47.9x48.0 cm",
+    "scale": "1:10000",
+    "nli_code": "990023682170205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023682170205171/NLI#$FL47890617"
+  },
+  {
+    "map_id": "1866_gelis",
+    "merged_witness_id": "1866_gelis",
+    "title": "Plan Topographique de Jérusalem",
+    "mapmakers": [
+      "Charles Gelis"
+    ],
+    "surveyors": [
+      "Charles Gelis",
+      "Félicien de Saulcy"
+    ],
+    "engravers": [
+      "Erhard Schieble"
+    ],
+    "publishers": [
+      "Imp. Lemercier"
+    ],
+    "publication_date": "1866-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "French",
+    "paper_extent": null,
+    "scale": "1:10000",
+    "nli_code": "990021516530205171",
+    "url": "https://www.nli.org.il/en/books/NNL_ALEPH990021516530205171/NLI"
+  },
+  {
+    "map_id": "1866_unknown",
+    "merged_witness_id": "1866_unknown",
+    "title": "Jerusalem and its environs",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1866-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "en",
+    "paper_extent": "23 x 23 cm",
+    "scale": "",
+    "nli_code": "990023698340205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023698340205171/NLI#$FL35058374"
+  },
+  {
+    "map_id": "1866_unknown_2",
+    "merged_witness_id": "1866_unknown_2",
+    "title": "Планъ Древняго Іерусалима и Іерусалимскаго храма",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1866-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "ru",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/%281866%29_Plan_der_Altstadt_von_Jerusalem_%28in_russisch%29.jpg"
+  },
+  {
+    "map_id": "1866_vandevelde",
+    "merged_witness_id": "1866_vandevelde",
+    "title": "Plan von Jerusalem, Karte von Palästina",
+    "mapmakers": [
+      "Charles William Meredith van de Velde"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Carl Hellfarth"
+    ],
+    "publishers": [
+      "Justus Perthes"
+    ],
+    "publication_date": "1866-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "de",
+    "paper_extent": "83.9 x 130.5 cm",
+    "scale": null,
+    "nli_code": "990038941100205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990038941100205171/NLI#$FL37116977"
+  },
+  {
+    "map_id": "1866_weller",
+    "merged_witness_id": "1866_weller",
+    "title": "Modern Jerusalem / Edw.d Weller F.R.G.S.",
+    "mapmakers": [
+      "Edward Weller"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "186?-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "15x19.3 cm",
+    "scale": null,
+    "nli_code": "990039184910205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039184910205171/NLI"
+  },
+  {
+    "map_id": "1867_roberts",
+    "merged_witness_id": "1867_roberts",
+    "title": "Plan of modern Jerusalem",
+    "mapmakers": [
+      "David Roberts"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1867-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "20 x 29 cm",
+    "scale": null,
+    "nli_code": "990039506630205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039506630205171/NLI#$FL45611836"
+  },
+  {
+    "map_id": "1868_unknown",
+    "merged_witness_id": "1868_unknown",
+    "title": "Jerusalem at three epochs / Modern Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "Stanford's Geog. Estab. London"
+    ],
+    "publishers": [],
+    "publication_date": "1868-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "25.1x19.1 cm",
+    "scale": null,
+    "nli_code": "990039088210205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039088210205171/NLI"
+  },
+  {
+    "map_id": "1869_pierotti",
+    "merged_witness_id": "1869_pierotti",
+    "title": "Plan de Jerusalem ancienne et moderne / par le Docteur Ermete Pierotti.",
+    "mapmakers": [
+      "Ermete Pierotti"
+    ],
+    "surveyors": [
+      "Ermete Pierotti"
+    ],
+    "engravers": [
+      "Samuel Duc"
+    ],
+    "publishers": [
+      "Samuel Duc"
+    ],
+    "publication_date": "1869-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "French",
+    "paper_extent": "42.6x34.3 cm",
+    "scale": null,
+    "nli_code": "990023695950205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023695950205171/NLI?volumeItem=1#$FL184621691"
+  },
+  {
+    "map_id": "1869_pierotti_2",
+    "merged_witness_id": "1869_pierotti_2",
+    "title": "Plan ancien & moderne de Jérusalem / Par le Dr. Ermete Pierotti",
+    "mapmakers": [
+      "Ermete Pierotti"
+    ],
+    "surveyors": [
+      "Ermete Pierotti"
+    ],
+    "engravers": [
+      "Samuel Duc"
+    ],
+    "publishers": [],
+    "publication_date": "1869-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "French",
+    "paper_extent": "14.9x10.1 cm",
+    "scale": null,
+    "nli_code": "990023695950205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023695950205171/NLI?volumeItem=1#$FL184621691"
+  },
+  {
+    "map_id": "187-_hughes",
+    "merged_witness_id": "187-_hughes",
+    "title": "A plan of Jerusalem / W. Hughes",
+    "mapmakers": [
+      "W. Hughes"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Samuel Bagster and Sons"
+    ],
+    "publication_date": "187?-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "7.5 x 11.8 cm",
+    "scale": "",
+    "nli_code": "990039392340205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039392340205171/NLI#$FL45602963"
+  },
+  {
+    "map_id": "1870_warren",
+    "merged_witness_id": "1870_warren",
+    "title": "Rock Contours of Jerusalem / By Lieut. Col. C. Warren, R. E. / From the records of the Excavations from the Ordnance Survey / and from levels supplied by Herr C. Schick and others. Plate. II and III. of Plans, elevations, sections, &c., shewing the results of the excavations at Jerusalem, 1867-70",
+    "mapmakers": [
+      "Charles Warren"
+    ],
+    "surveyors": [
+      "Conrad Schick"
+    ],
+    "engravers": [
+      "Vincent Brooks, Day & Son"
+    ],
+    "publishers": [],
+    "publication_date": "1884-01-01T00:00:00Z",
+    "survey_date": "1870-01-01T00:00:00Z",
+    "language": "English",
+    "paper_extent": "78 cm",
+    "scale": "",
+    "nli_code": "990021908060205171",
+    "url": "https://www.nli.org.il/en/books/NNL_ALEPH990021908060205171/NLI"
+  },
+  {
+    "map_id": "1871_howe",
+    "merged_witness_id": "1871_howe",
+    "title": "Handbook map of Jerusalem Reduced from the Ordnance Survey",
+    "mapmakers": [
+      "Fisher Howe"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1871-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/6_of_%27The_True_Site_of_Calvary%2C_and_Suggestions_relating_to_the_Resurrection_..._With_an_illustrative_map_of_Jeruslem%27_%2811094288793%29.jpg"
+  },
+  {
+    "map_id": "1871_whitney",
+    "merged_witness_id": "1871_whitney",
+    "title": "Modern Jerusalem : This map is reduced from the official map of the British ordnance survey.",
+    "mapmakers": [
+      "George Henry Whitney"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1871-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "20.0x15.7 cm",
+    "scale": null,
+    "nli_code": "990039547630205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039547630205171/NLI#$FL45612017"
+  },
+  {
+    "map_id": "1872_wolff",
+    "merged_witness_id": "1872_wolff",
+    "title": "Grundriss von Jerusalem.",
+    "mapmakers": [
+      "Philipp Wolff"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1872-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "30.0x24.5 cm",
+    "scale": null,
+    "nli_code": "997012124364605171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER997012124364605171/NLI#$FL203364610"
+  },
+  {
+    "map_id": "1873_conder",
+    "merged_witness_id": "1873_conder",
+    "title": "Rock site of Jerusalem : with existing Scarps and Ancien Ruins / entworfen von Claude R. Conder R.E. 1873.",
+    "mapmakers": [
+      "Claude Conder"
+    ],
+    "surveyors": [
+      "Claude Conder"
+    ],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1876-01-01T00:00:00Z",
+    "survey_date": "1873-01-01T00:00:00Z",
+    "language": "German",
+    "paper_extent": "20.5x13.0 cm",
+    "scale": "1:10000",
+    "nli_code": "990023680140205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023680140205171/NLI#$FL184620963"
+  },
+  {
+    "map_id": "1873_illes",
+    "merged_witness_id": "1873_illes",
+    "title": "Illés Relief",
+    "mapmakers": [
+      "Stefan Illés"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1873-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": null,
+    "paper_extent": "450x500 cm",
+    "scale": "1:5000",
+    "nli_code": null,
+    "url": null
+  },
+  {
+    "map_id": "1873_rawson",
+    "merged_witness_id": "1873_rawson",
+    "title": "Plan of Jerusalem Holy Places etc. in Map of Palestine and all Bible Lands",
+    "mapmakers": [
+      "A.L. Rawson"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "H.H. Lloyd & Co."
+    ],
+    "publication_date": "1873-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "en",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Jerusalem._Rawson%2C_A.L._Map_of_Palestine_and_all_Bible_lands._1873.jpg"
+  },
+  {
+    "map_id": "1874_saunders",
+    "merged_witness_id": "1874_saunders",
+    "title": "Jerusalem ancient & modern",
+    "mapmakers": [
+      "Trelawney Saunders",
+      "Charles Müller"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1874-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "43.0x59.0 cm",
+    "scale": null,
+    "nli_code": "990039117710205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039117710205171/NLI#$FL36012656"
+  },
+  {
+    "map_id": "1874_unknown",
+    "merged_witness_id": "1874_unknown",
+    "title": "Plan of Jerusalem, from the Ordnance Survey",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1874-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:96_of_%27“Those_Holy_Fields.”_Palestine,_illustrated_by_pen_and_pencil%27_(11106449156).jpg#/media/File:96_of_'“Those_Holy_Fields.”_Palestine,_illustrated_by_pen_and_pencil'_(11106449156).jpg"
+  },
+  {
+    "map_id": "1875_unknown",
+    "merged_witness_id": "1875_unknown",
+    "title": "Jerusalem and Mt. Moriah",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1875-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:Antiquities_of_the_Orient_unveiled,_containing_a_concise_description_of_the_remarkable_ruins_of_King_Solomon%27s_temple,_and_store_cities_,together_with_those_of_all_the_most_ancient_and_renowned_cities_(14779112631).jpg#/media/File:Antiquities_of_the_Orient_unveiled,_containing_a_concise_description_of_the_remarkable_ruins_of_King_Solomon's_temple,_and_store_cities_,together_with_those_of_all_the_most_ancient_and_renowned_cities_(14779112631).jpg"
+  },
+  {
+    "map_id": "1875_unknown_2",
+    "merged_witness_id": "1875_unknown_2",
+    "title": "Святая Земля. Отчетъ по командировкѣ въ Палестину и прилегающія къ ней страны ... 1873-1874",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1875-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "ru",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:563_of_%27Святая_Земля._Отчетъ_по_командировкѣ_въ_Палестину_и_прилегающія_къ_ней_страны_..._1873-1874%27_(11110277306).jpg#/media/File:563_of_'Святая_Земля._Отчетъ_по_командировкѣ_въ_Палестину_и_прилегающія_къ_ней_страны_..._1873-1874'_(11110277306).jpg"
+  },
+  {
+    "map_id": "1875_weller",
+    "merged_witness_id": "1875_weller",
+    "title": "Handbook map of Jerusalem : Reduced from the Ordnance Survey / Edwd. Weller.",
+    "mapmakers": [
+      "Edward Weller"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1875-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "25.0x26.5 cm",
+    "scale": null,
+    "nli_code": "990026476340205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990026476340205171/NLI#$FL5089356"
+  },
+  {
+    "map_id": "1876_ancessi",
+    "merged_witness_id": "1876_ancessi",
+    "title": "Plan de Jérusalem El Kuds par V. Ancessi",
+    "mapmakers": [
+      "Victor Ancessi"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "J. Geisendörfer"
+    ],
+    "publishers": [],
+    "publication_date": "1876-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "French",
+    "paper_extent": "22.3x15.4 cm",
+    "scale": null,
+    "nli_code": "990039245270205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039245270205171/NLI#$FL45582589"
+  },
+  {
+    "map_id": "1876_kiepert",
+    "merged_witness_id": "1876_kiepert_G",
+    "title": "Environs of Jerusalem / Drawn by H. Kiepert. Engraved and printed by Wagner & Debes Leipzig.",
+    "mapmakers": [
+      "Heinrich Kiepert"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Wagner & Debes"
+    ],
+    "publishers": [
+      "Wagner & Debes"
+    ],
+    "publication_date": "1876-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": "1:25000",
+    "nli_code": "990039341470205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039341470205171/NLI#$FL45601939"
+  },
+  {
+    "map_id": "1876_unknown",
+    "merged_witness_id": "1876_unknown",
+    "title": "Plan of Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1876-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:239_of_%27The_Lord%27s_Land-_a_narrative_of_travels_in_Sinai_..._and_Palestine,_etc%27_(11113991874).jpg#/media/File:239_of_'The_Lord's_Land-_a_narrative_of_travels_in_Sinai_..._and_Palestine,_etc'_(11113991874).jpg"
+  },
+  {
+    "map_id": "1876_zimmermann",
+    "merged_witness_id": "1876_zimmermann",
+    "title": "Terrainkarte von Jerusalem und Umgebung vor der Besiedelung : nach dem Entwurf von Baurath C.Schick / bearbeitet von Dr. Carl Zimmermann.",
+    "mapmakers": [
+      "Karl Zimmermann"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Wurster, Randegger & Cie"
+    ],
+    "publishers": [
+      "C. F. Splitter"
+    ],
+    "publication_date": "1876-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "51x40.0 cm",
+    "scale": "1:5000",
+    "nli_code": "990027619740205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990027619740205171/NLI#$FL51415418"
+  },
+  {
+    "map_id": "1877_gatt",
+    "merged_witness_id": "1877_gatt",
+    "title": "Jerusalem / Hoven sc. G.Gatt.",
+    "mapmakers": [
+      "Georg Gatt"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Hoven",
+      "Biberat"
+    ],
+    "publishers": [
+      "C. Liebel"
+    ],
+    "publication_date": "1877-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "31x39 cm",
+    "scale": null,
+    "nli_code": "990024963330205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990024963330205171/NLI#$FL37099000"
+  },
+  {
+    "map_id": "1877_unknown",
+    "merged_witness_id": "1877_unknown",
+    "title": "Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "F. A. Brockhaus' Geogr. artist Anstalt"
+    ],
+    "publication_date": "1877-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "de",
+    "paper_extent": "15.5 x 23.3 cm",
+    "scale": "",
+    "nli_code": "990040731700205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990040731700205171/NLI#$FL49973546"
+  },
+  {
+    "map_id": "1878_unknown",
+    "merged_witness_id": "1878_unknown",
+    "title": "Das Heutige Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1878-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "17x10.3 cm",
+    "scale": null,
+    "nli_code": "990039392190205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039392190205171/NLI#$FL45602938"
+  },
+  {
+    "map_id": "1879_conder",
+    "merged_witness_id": "1879_conder",
+    "title": "Jerusalem. Showing the Rock Surface in Contour Lines at so many Feet above Sea Level and Ruins",
+    "mapmakers": [
+      "Claude Reignier Conder"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1886-01-01T00:00:00Z",
+    "survey_date": "1879-01-01T00:00:00Z",
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/605_of_%27The_Cruise_of_Her_Majesty%27s_Ship_“Bacchante%2C”_1879-1882._Compiled_from_the_private_journals%2C_letters_and_note-books_of_Prince_Albert_Victor_and_Prince_George_of_Wales%2C_with_additions_by_J._N._Dalton%27_%2811186053443%29.jpg"
+  },
+  {
+    "map_id": "1879_unknown",
+    "merged_witness_id": "1879_unknown",
+    "title": "Plan of Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "Fisk & See"
+    ],
+    "publishers": [],
+    "publication_date": "1879-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/437_of_%27From_Egypt_to_Palestine_through_Sinai%2C_the_Wilderness_and_the_South_Country._Observations_of_a_journey_made_with_special_reference_to_the_history_of_the_Israelites_..._With_maps_and_illustrations%27_%2811128999505%29.jpg"
+  },
+  {
+    "map_id": "188-_unknown",
+    "merged_witness_id": "188-_unknown",
+    "title": "Map of Jerusalem & its environs. Drawn from the Ordnance Plan by permission of the Commandant of the Royal Engineers",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "E.A. Hancock"
+    ],
+    "publication_date": "188?-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "990040731240205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990040731240205171/NLI#$FL49973298"
+  },
+  {
+    "map_id": "1880_kiepert",
+    "merged_witness_id": "1880_kiepert",
+    "title": "Übersichtsplan von Jerusalem / Gez. v. H. Kiepert.",
+    "mapmakers": [
+      "Heinrich Kiepert"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Wagner & Debes"
+    ],
+    "publishers": [],
+    "publication_date": "1880-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "19.9x14.8 cm",
+    "scale": "1:8300",
+    "nli_code": "990039278010205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039278010205171/NLI#$FL45584649"
+  },
+  {
+    "map_id": "1880_kiepert_2",
+    "merged_witness_id": "1876_kiepert_G",
+    "title": "Nahere umgebung von Jerusalem / Gez. v. H. Kiepert.",
+    "mapmakers": [
+      "Heinrich Kiepert"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Wagner & Debes"
+    ],
+    "publishers": [],
+    "publication_date": "1880-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "20x14.7 cm",
+    "scale": "1:25000",
+    "nli_code": "990039278130205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039278130205171/NLI#$FL45585277"
+  },
+  {
+    "map_id": "1881_guerin",
+    "merged_witness_id": "1881_guerin",
+    "title": "Plan de Jérusalem par Victor Guérin : d'après les travaux du capitaine francais Gélis et du capitaine Anglais Wilson, mais avec quelques modifications de noms 1881 / Dessiné et Gravé par R. Hausermann.",
+    "mapmakers": [
+      "Victor Guerin"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "R. Hausermann"
+    ],
+    "publishers": [],
+    "publication_date": "1882-01-01T00:00:00Z",
+    "survey_date": "1881-01-01T00:00:00Z",
+    "language": "French",
+    "paper_extent": "33.3x49.4 cm",
+    "scale": "1:5250",
+    "nli_code": "990023745030205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990023745030205171/NLI#$FL184621889"
+  },
+  {
+    "map_id": "1881_magnenat-gloor",
+    "merged_witness_id": "1881_magnenat-gloor",
+    "title": "Plan de Jerusalem Magnenat.Gloor, Geographe. Lith. L.Magnenat.",
+    "mapmakers": [
+      "A. D. Magnenat-Gloor"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "L. Magnenat"
+    ],
+    "publishers": [],
+    "publication_date": "1881-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "French",
+    "paper_extent": "18.0x15.3 cm",
+    "scale": null,
+    "nli_code": "990023681220205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990023681220205171/NLI"
+  },
+  {
+    "map_id": "1881_pierotti",
+    "merged_witness_id": "1881_pierotti",
+    "title": "Plan ancien & moderne de Jérusalem",
+    "mapmakers": [
+      "Ermete Pierotti"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1882-01-01T00:00:00Z",
+    "survey_date": "1881-01-01T00:00:00Z",
+    "language": "fr",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": "https://commons.wikimedia.org/wiki/File:405_of_%27La_Bible_et_la_Palestine_au_XIXme_siècle._(With_a_preface_by_J._W._Lelièvre.)%27_(11149511576).jpg#/media/File:405_of_'La_Bible_et_la_Palestine_au_XIXme_siècle._(With_a_preface_by_J._W._Lelièvre.)'_(11149511576).jpg"
+  },
+  {
+    "map_id": "1881_unknown",
+    "merged_witness_id": "1881_unknown",
+    "title": "Map of Jerusalem and Surrounding Country",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1881-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/715_of_%27Cities_of_the_World-_their_origin%2C_progress_..._Illustrated%27_%2811143432916%29.jpg"
+  },
+  {
+    "map_id": "1882_guthe",
+    "merged_witness_id": "1882_guthe",
+    "title": "Jerusalem : Nach W.Wilson's 1864-65 und Ergänzungen von C.Schick, C.Zimmermann und H.Guthe / Geograph. Anst. v.Wagner & Debes, Leipzig Red.v.H.Guthe.",
+    "mapmakers": [
+      "H. Guthe"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Wagner & Debes"
+    ],
+    "publishers": [],
+    "publication_date": "1882-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "42x28 cm",
+    "scale": "1:6700",
+    "nli_code": "990023697840205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990023697840205171/NLI#$FL48134348"
+  },
+  {
+    "map_id": "1882_house",
+    "merged_witness_id": "1882_house_G",
+    "title": "N. 9 Map of Jerusalem",
+    "mapmakers": [
+      "Bruce F. House"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1882-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://tile.loc.gov/storage-services/master/gmd/gmd370m/g3700m/g3700m/gla00130/ca000020.tif"
+  },
+  {
+    "map_id": "1882_thuillier",
+    "merged_witness_id": "1882_thuillier",
+    "title": "Plan de Jerusalem : d'apres MMrs. V. Wilson. (ordnance Survay.) et de Saulcy. ( Voyage en Terre Sainte.) / L. Thuillier. Del.t.",
+    "mapmakers": [
+      "L. Thuillier"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Lemercier et Cie."
+    ],
+    "publishers": [],
+    "publication_date": "1882-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "French",
+    "paper_extent": "32.9x36 cm",
+    "scale": null,
+    "nli_code": "990039277520205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039277520205171/NLI#$FL46962356"
+  },
+  {
+    "map_id": "1882_unknown",
+    "merged_witness_id": "1882_unknown",
+    "title": "Modern Jerusalem. From Ordnance Survey",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "W & A K Johnston"
+    ],
+    "publishers": [
+      "W & A K Johnston",
+      "W & A K Johnston",
+      "W & A K Johnston"
+    ],
+    "publication_date": "1882-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": null
+  },
+  {
+    "map_id": "1882_unknown_2",
+    "merged_witness_id": "1882_unknown_2",
+    "title": "Plano de Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1882-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "es",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/377_of_%27Viaje_á_Egipto%2C_Palestina_y_otros_países_del_Oriente%27_%2811158773706%29.jpg"
+  },
+  {
+    "map_id": "1883_house",
+    "merged_witness_id": "1882_house_G",
+    "title": "Jerusalem",
+    "mapmakers": [
+      "Bruce F. House"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1883-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:Jerusalem1883.jpg#/media/File:Jerusalem1883.jpg"
+  },
+  {
+    "map_id": "1883_sandreczki",
+    "merged_witness_id": "1883_sandreczki",
+    "title": "Plan der Strassen & Plätze des jetzigen Jerusalem / von Dr. C.Sandreczki.",
+    "mapmakers": [
+      "Carl Sandreczki"
+    ],
+    "surveyors": [
+      "Carl Sandreczki"
+    ],
+    "engravers": [
+      "Wagner & Debes"
+    ],
+    "publishers": [],
+    "publication_date": "1883-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": null,
+    "scale": "1:2500",
+    "nli_code": "990023700980205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023700980205171/NLI#$FL31740097"
+  },
+  {
+    "map_id": "1884_perron",
+    "merged_witness_id": "1884_perron",
+    "title": "Jérusalem / D'apres Guerin C. Perron",
+    "mapmakers": [
+      "C. Perron"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1884-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "fr",
+    "paper_extent": "10.6 x 12.5 cm",
+    "scale": null,
+    "nli_code": "990039289490205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039289490205171/NLI#$FL45585379"
+  },
+  {
+    "map_id": "1885_barkdull",
+    "merged_witness_id": "1885_barkdull",
+    "title": "N.9 Map of Jerusalem. Revised by Rev. T. N. Barkdull",
+    "mapmakers": [
+      "T. N. Barkdull"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1885-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "23.9 x 33.9 cm",
+    "scale": "",
+    "nli_code": "990039254770205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039254770205171/NLI#$FL45582685"
+  },
+  {
+    "map_id": "1885_muret",
+    "merged_witness_id": "1885_muret",
+    "title": "Plan relief de Jérusalem et de ses environs",
+    "mapmakers": [
+      "Ch. Muret"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Victor Poupin"
+    ],
+    "publication_date": "1885-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "fr",
+    "paper_extent": "40 x 46 cm",
+    "scale": "1:5,000",
+    "nli_code": "990027290630205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990027290630205171/NLI"
+  },
+  {
+    "map_id": "1885_unknown",
+    "merged_witness_id": "1885_unknown",
+    "title": "Plan des alten Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1885-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "de",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:Meyers_b9_s0200.jpg#/media/File:Meyers_b9_s0200.jpg"
+  },
+  {
+    "map_id": "1886_PEF",
+    "merged_witness_id": "1886_PEF",
+    "title": "Jerusalem. Shewing the various theories as to the walls",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "Harrison & Sons"
+    ],
+    "publishers": [],
+    "publication_date": "1886-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:58_of_%27Twenty-one_years%27_work_in_the_Holy_Land_..._June_22,_1865-June_22,_1886._Published_for_the_Committee_of_the_Palestine_Exploration_Fund._(By_W._B._i.e._Walter_Besant.)%27_(11185965106).jpg#/media/File:58_of_'Twenty-one_years'_work_in_the_Holy_Land_..._June_22,_1865-June_22,_1886._Published_for_the_Committee_of_the_Palestine_Exploration_Fund._(By_W._B._i.e._Walter_Besant.)'_(11185965106).jpg"
+  },
+  {
+    "map_id": "1886_nicole",
+    "merged_witness_id": "1886_nicole",
+    "title": "Plan topographique de Jerusalem et de ses environs / dresse en 1886 par l'abbe H. Nicole. Grave et imprime par Erhard Fres. Paris.",
+    "mapmakers": [
+      "Henri Nicole"
+    ],
+    "surveyors": [
+      "Henri Nicole"
+    ],
+    "engravers": [
+      "Erhard, Freres"
+    ],
+    "publishers": [
+      "Victor Poupin",
+      "A. Roger & H. Chernoviz"
+    ],
+    "publication_date": "1886-01-01T00:00:00Z",
+    "survey_date": "1886-01-01T00:00:00Z",
+    "language": "French",
+    "paper_extent": "41.3x42 cm",
+    "scale": "1:10000",
+    "nli_code": "990023681400205171",
+    "url": "https://nli.org.il/en/maps/NNL_ALEPH990023681400205171/NLI#$FL189596905"
+  },
+  {
+    "map_id": "1887_hurlbut",
+    "merged_witness_id": "1887_hurlbut",
+    "title": "Modern Jerusalem / Rand, McNally & Co., Engr's.",
+    "mapmakers": [
+      "Jesse Lyman Hurlbut"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Rand, Mc Nally & Co."
+    ],
+    "publishers": [],
+    "publication_date": "1887-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "9.5x12.8 cm",
+    "scale": null,
+    "nli_code": "990039090200205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039090200205171/NLI#$FL36567425"
+  },
+  {
+    "map_id": "1887_riess",
+    "merged_witness_id": "1887_riess",
+    "title": "Plan des heutigen Jerusalem nach W.Wilson's",
+    "mapmakers": [
+      "Richard Von Riess"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1887-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": null,
+    "scale": "1:10000",
+    "nli_code": "990039152580205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039152580205171/NLI#$FL37663386"
+  },
+  {
+    "map_id": "1887_unknown",
+    "merged_witness_id": "1887_unknown",
+    "title": "Modern Jerusalem. The divisions of Ancient Jerusalem are distinguished by colours and named in light letters",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "W. & A. K. Johnston"
+    ],
+    "publishers": [],
+    "publication_date": "1887-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/A_dictionary_of_the_Bible.._%281887%29_%2814595192110%29.jpg"
+  },
+  {
+    "map_id": "1887_unknown_2",
+    "merged_witness_id": "1887_unknown_2",
+    "title": "Plan von Jerusalem Nach de Saulcy verbessert und vervollstandigt 1886",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1887-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "de",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "990039283510205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039283510205171/NLI#$FL45585377"
+  },
+  {
+    "map_id": "1888_nicole",
+    "merged_witness_id": "1888_nicole",
+    "title": "Plan de la ville de Jérusalem dressé en 1888 par l'abbé Henri Nicole",
+    "mapmakers": [
+      "Henri Nicole"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1888-01-01T00:00:00Z",
+    "survey_date": "1888-01-01T00:00:00Z",
+    "language": "fr",
+    "paper_extent": "51 x 65 cm",
+    "scale": "1:2500",
+    "nli_code": "",
+    "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84436309/f1/full/full/0/native.jpg"
+  },
+  {
+    "map_id": "1888_pierotti",
+    "merged_witness_id": "1888_pierotti",
+    "title": "Plan des environs de Jérusalem (1888) / Par... Ermette Pierotti.",
+    "mapmakers": [
+      "Ermete Pierotti"
+    ],
+    "surveyors": [
+      "Ermete Pierotti"
+    ],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1888-01-01T00:00:00Z",
+    "survey_date": "1888-01-01T00:00:00Z",
+    "language": "French",
+    "paper_extent": "54x40.5 cm",
+    "scale": null,
+    "nli_code": "997012124376805171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER997012124376805171/NLI#$FL203364683"
+  },
+  {
+    "map_id": "1888_pierotti_2",
+    "merged_witness_id": "1888_pierotti_2",
+    "title": "Plan de Jerusalem ancienne et moderne (1888) [cartographic material] / par le Chevalier Docteur Ermete Pierotti, architecte-ingenieur...",
+    "mapmakers": [
+      "Ermete Pierotti"
+    ],
+    "surveyors": [
+      "Ermete Pierotti"
+    ],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1888-01-01T00:00:00Z",
+    "survey_date": "1888-01-01T00:00:00Z",
+    "language": "French",
+    "paper_extent": "42x34 cm",
+    "scale": null,
+    "nli_code": "990023681510205171",
+    "url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990023681510205171/NLI#$FL206919937"
+  },
+  {
+    "map_id": "1888_temple",
+    "merged_witness_id": "1888_temple",
+    "title": "The city of Jerusalem (Modern) / George Philip & Son.",
+    "mapmakers": [
+      "Richard Temple"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "George Philip & Son"
+    ],
+    "publishers": [],
+    "publication_date": "1888-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "22.6x16.8 cm",
+    "scale": null,
+    "nli_code": "990039520680205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039520680205171/NLI#$FL45611962"
+  },
+  {
+    "map_id": "1888_unknown",
+    "merged_witness_id": "1888_unknown",
+    "title": "Sketch Plan of Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1888-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/519_of_%27Modern_Science_in_Bible_Lands_..._With_maps_and_illustrations%27_%2811102021726%29.jpg"
+  },
+  {
+    "map_id": "1889_ruze",
+    "merged_witness_id": "1889_ruze",
+    "title": "Plan de Jérusalem",
+    "mapmakers": [
+      "E. Ruze"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1889-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "fr",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://stacks.stanford.edu/image/iiif/tk800pt2632/tk800pt2632_00_0001/full/full/0/default.jpg"
+  },
+  {
+    "map_id": "189-_unknown",
+    "merged_witness_id": "189-_unknown",
+    "title": "Jerusalem.",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "Wagner & Debes"
+    ],
+    "publishers": [],
+    "publication_date": "189?-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": null,
+    "scale": "1:8350",
+    "nli_code": "990047299750205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990047299750205171/NLI#$FL64494477"
+  },
+  {
+    "map_id": "189-_unknown_2",
+    "merged_witness_id": "189-_unknown_2",
+    "title": "Древній и Современный Іерусалимъ",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1894-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "ru",
+    "paper_extent": "23 x 12 cm",
+    "scale": "",
+    "nli_code": "990023832850205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023832850205171/NLI#$FL184620815"
+  },
+  {
+    "map_id": "1890_unknown",
+    "merged_witness_id": "1890_unknown",
+    "title": "Jerusalem. Reisekarte für die Wallfahrt nach dem heil.",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1890-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "29x32 cm",
+    "scale": "1:6450",
+    "nli_code": "990026443210205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990026443210205171/NLI#$FL5089370"
+  },
+  {
+    "map_id": "1891_unknown",
+    "merged_witness_id": "1891_unknown",
+    "title": "Plan of Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1891-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/217_of_%27Buried_Cities_and_Bible_Countries%27_%2811298370556%29.jpg"
+  },
+  {
+    "map_id": "1893_nicole",
+    "merged_witness_id": "1893_nicole",
+    "title": "Plan de Jérusalem par l'abbé Henri Nicole.",
+    "mapmakers": [
+      "Henri Nicole"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1893-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "French",
+    "paper_extent": "33.9x38.2 cm",
+    "scale": "1:8000",
+    "nli_code": "990039305080205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039305080205171/NLI#$FL46962431"
+  },
+  {
+    "map_id": "1893_unknown",
+    "merged_witness_id": "1893_unknown",
+    "title": "Map of Jerusalem : Reduced from the Ordnance Survey.",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1893-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": "990039231520205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039231520205171/NLI#$FL37821390"
+  },
+  {
+    "map_id": "1893_unknown_2",
+    "merged_witness_id": "1893_unknown_2",
+    "title": "Modern Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1893-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:203_of_%27The_Fifth_Gospel,_the_land_where_Jesus_lived%27_(11220328704).jpg#/media/File:203_of_'The_Fifth_Gospel,_the_land_where_Jesus_lived'_(11220328704).jpg"
+  },
+  {
+    "map_id": "1894_schick",
+    "merged_witness_id": "1894_schick",
+    "title": "Nähere Umgebung von Jerusalem / Entworfen von Baurat C. Schick in Jerusalem Gez. v. Baurat C. Schick 1894/95 Red. v. Lic. Cr. Benzinger.",
+    "mapmakers": [
+      "Conrad Schick",
+      "Immanuel Benzinger"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Wagner & Debes"
+    ],
+    "publishers": [],
+    "publication_date": "1895-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "45.4x39.0 cm",
+    "scale": "1:10000",
+    "nli_code": "990023679230205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990023679230205171/NLI#$FL25567831"
+  },
+  {
+    "map_id": "1895_riess",
+    "merged_witness_id": "1895_riess",
+    "title": "Plan des heutigen Jerusalem.",
+    "mapmakers": [
+      "Richard Von Riess"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1895-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": null,
+    "scale": "1:10000",
+    "nli_code": "990039152580205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039152580205171/NLI#$FL37663386"
+  },
+  {
+    "map_id": "1895_unknown",
+    "merged_witness_id": "1895_unknown",
+    "title": "Jerusalem.",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1895-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "8x7 cm",
+    "scale": "1:12000",
+    "nli_code": "990039322080205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039322080205171/NLI#$FL45595649"
+  },
+  {
+    "map_id": "1895_unknown_2",
+    "merged_witness_id": "1895_unknown_2",
+    "title": "Jerusalem nahere umgebung",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1895-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "12.9x8 cm",
+    "scale": "1:37500",
+    "nli_code": "990039322080205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039322080205171/NLI#$FL45595649"
+  },
+  {
+    "map_id": "1896_philip",
+    "merged_witness_id": "1896_philip",
+    "title": "Modern Jerusalem.",
+    "mapmakers": [
+      "George Philip & Son"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "George Philip & Son"
+    ],
+    "publishers": [],
+    "publication_date": "1896-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "16.2x9.4 cm",
+    "scale": "1:15000",
+    "nli_code": "990034786360205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990034786360205171/NLI#$FL5089326"
+  },
+  {
+    "map_id": "1896_unknown",
+    "merged_witness_id": "1896_unknown",
+    "title": "Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "Imp. Dufrenoy"
+    ],
+    "publishers": [],
+    "publication_date": "1896-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "fr",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:CUINET(1896)_JERUSALEM.jpg#/media/File:CUINET(1896)_JERUSALEM.jpg"
+  },
+  {
+    "map_id": "1897_harris",
+    "merged_witness_id": "1897_harris",
+    "title": "Map of Jerusalem",
+    "mapmakers": [
+      "Helen B. Harris"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1897-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:21_of_%27Pictures_of_the_East-_sketches_of_Biblical_scenes_in_Palestine_and_Greece%27_(11244264406).jpg#/media/File:21_of_'Pictures_of_the_East-_sketches_of_Biblical_scenes_in_Palestine_and_Greece'_(11244264406).jpg"
+  },
+  {
+    "map_id": "1897_unknown",
+    "merged_witness_id": "1897_unknown_G",
+    "title": "AL KUDS - JERUSALEM OF TO-DAY",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1897-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:MACCOUN(1899)_p219_AL_KUDS_-_JERUSALEM_OF_TO-DAY.jpg#/media/File:MACCOUN(1899)_p219_AL_KUDS_-_JERUSALEM_OF_TO-DAY.jpg"
+  },
+  {
+    "map_id": "1898_schneller",
+    "merged_witness_id": "1898_schneller",
+    "title": "Situationsplan des Syrischen Waisenhauses / Geogrpa. Anstalt von Wagner & Debes.",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "Wagner & Debes"
+    ],
+    "publishers": [],
+    "publication_date": "1898-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "23x26 cm",
+    "scale": "1:19800",
+    "nli_code": "997011433622105171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER997011433622105171/NLI#$FL198245600"
+  },
+  {
+    "map_id": "1898_unknown",
+    "merged_witness_id": "1897_unknown_G",
+    "title": "Al Kuds (The Holy). Jerusalem of to-day",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1898-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:387_of_%27Jerusalem_the_Holy._A_brief_history_of_ancient_Jerusalem;_with_an_account_of_the_modern_city_..._With_fifteen_illustrations_from_photographs_and_four_maps%27_(11248364856).jpg#/media/File:387_of_'Jerusalem_the_Holy._A_brief_history_of_ancient_Jerusalem;_with_an_account_of_the_modern_city_..._With_fifteen_illustrations_from_photographs_and_four_maps'_(11248364856).jpg"
+  },
+  {
+    "map_id": "1899_unknown",
+    "merged_witness_id": "1899_unknown",
+    "title": "Plan von Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1899-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "de",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:203_of_%27Illustriertes_kleineres_Handbuch_der_Geographie_..._Dritte,_verbesserte_Auflage_bearbeitet_von_Dr._W._Wolkenhauer%27_(11252981584).jpg#/media/File:203_of_'Illustriertes_kleineres_Handbuch_der_Geographie_..._Dritte,_verbesserte_Auflage_bearbeitet_von_Dr._W._Wolkenhauer'_(11252981584).jpg"
+  },
+  {
+    "map_id": "1899_unknown_2",
+    "merged_witness_id": "1899_unknown_2",
+    "title": "The Jerusalem of Nehemiah",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1899-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Charles_Foster_Kent%2C_The_Jerusalem_of_Nehemah_%281899%29_%2814596514630%29.jpg"
+  },
+  {
+    "map_id": "1899_unknown_3",
+    "merged_witness_id": "1899_unknown_3",
+    "title": "Map of Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1899-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "en",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "",
+    "url": "https://commons.wikimedia.org/wiki/File:HOPKINS(1899)_p013_MAP_OF_JERUSALEM.jpg#/media/File:HOPKINS(1899)_p013_MAP_OF_JERUSALEM.jpg"
+  },
+  {
+    "map_id": "19--_frassi",
+    "merged_witness_id": "19--_frassi",
+    "title": "Topographia Jerusalem",
+    "mapmakers": [
+      "Frassi"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "E. de Murmann"
+    ],
+    "publishers": [
+      "Stab. Gualassini & Bertarelli"
+    ],
+    "publication_date": "19??-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "la",
+    "paper_extent": "16 x 25 cm",
+    "scale": "",
+    "nli_code": "990023695550205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023695550205171/NLI"
+  },
+  {
+    "map_id": "19--_unknown",
+    "merged_witness_id": "19--_unknown",
+    "title": "Plan de Jerusalem : Pour suivre la Passion de N.S.J.-C.",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "19??-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "fr",
+    "paper_extent": "24 x 23 cm",
+    "scale": "",
+    "nli_code": "990023676420205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990023676420205171/NLI#$FL25562387"
+  },
+  {
+    "map_id": "1900_wilson",
+    "merged_witness_id": "1900_wilson_G",
+    "title": "Plan of Jerusalem: Reduced by permission from the Ordnance plan 1:2,500 scale made by Charles W. Wilson... to illustrate recent discoveries",
+    "mapmakers": [
+      "Charles William Wilson"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Palestine Exploration Fund"
+    ],
+    "publication_date": "1900-10-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "78x56 cm",
+    "scale": "1:3,670",
+    "nli_code": "990023669900205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023669900205171/NLI"
+  },
+  {
+    "map_id": "1900_wilson_2",
+    "merged_witness_id": "1900_wilson_G",
+    "title": "Plan of Jerusalem : Reduced by permission from the Ordnance plan",
+    "mapmakers": [
+      "Charles William Wilson"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Vincent Brooks"
+    ],
+    "publishers": [
+      "Palestine Exploration Fund"
+    ],
+    "publication_date": "1900-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "en",
+    "paper_extent": "44.6 x 33.3 cm",
+    "scale": "1:2,500",
+    "nli_code": "990038904110205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990038904110205171"
+  },
+  {
+    "map_id": "1901_unknown",
+    "merged_witness_id": "1901_unknown",
+    "title": "Jerusalem.",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "Stanford's Geog. Estab. London"
+    ],
+    "publishers": [],
+    "publication_date": "1901-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "14x8.5 cm",
+    "scale": "1:12936",
+    "nli_code": "990039317660205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039317660205171/NLI#$FL45593395"
+  },
+  {
+    "map_id": "1902_unknown",
+    "merged_witness_id": "1902_unknown",
+    "title": "Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1902-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": "1:10,000",
+    "nli_code": "990034867500205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990034867500205171/NLI"
+  },
+  {
+    "map_id": "1903_unknown",
+    "merged_witness_id": "1903_unknown",
+    "title": "Handbook map of Jerusalem: Reduced from the Ordnance Survey",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1903-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "26.5x27 cm",
+    "scale": null,
+    "nli_code": "990029092700205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990029092700205171/NLI"
+  },
+  {
+    "map_id": "1904_kuemmel",
+    "merged_witness_id": "1904_kuemmel",
+    "title": "Karte der Meterialien zur Topographie des Alten Jerusalem / Gezeichnet von Oberlehrer August Kuemmel, Barmen, und herausgegeben von Deutsche Verein zur Erforschung Palaestinas.",
+    "mapmakers": [
+      "Friedrich August Kuemmel"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Wagner & Debes"
+    ],
+    "publishers": [
+      "Verlag des Deutschen Palaestina-Vereins"
+    ],
+    "publication_date": "1904-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "102.5x72.5 cm",
+    "scale": "1:2500",
+    "nli_code": "990023681060205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023681060205171/NLI"
+  },
+  {
+    "map_id": "1904_unknown",
+    "merged_witness_id": "1904_unknown",
+    "title": "Jerusalem modern",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Bormay & Co."
+    ],
+    "publication_date": "1904-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "en",
+    "paper_extent": "21 x 14 cm",
+    "scale": "",
+    "nli_code": "990027134690205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990027134690205171/NLI#$FL163904597"
+  },
+  {
+    "map_id": "1905_schick",
+    "merged_witness_id": "1905_schick",
+    "title": "Nähere Umgebung von Jerusalem / Entworfen von Baurat C. Schick in Jerusalem. Gez. v. Baurat C. Schick 1894/95 / Red. ergänzt v. Lic. Dr. Benzinger 1905.",
+    "mapmakers": [
+      "Conrad Schick",
+      "Immanuel Benzinger"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Wagner & Debes"
+    ],
+    "publishers": [
+      "Verlag des deutschen Vereins zur Erforschung Palästinas"
+    ],
+    "publication_date": "1905-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "45.4x39.0 cm",
+    "scale": "1:10000",
+    "nli_code": "990023702260205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023702260205171/NLI#$FL28928362"
+  },
+  {
+    "map_id": "1905_unknown",
+    "merged_witness_id": "1905_unknown",
+    "title": "Map of Jerusalem prepared expressly for the Worlds Fourth Sunday School Convention",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1905-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "en",
+    "paper_extent": "20 x 15 cm",
+    "scale": "",
+    "nli_code": "997011595977005171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER997011595977005171/NLI#$FL201234804"
+  },
+  {
+    "map_id": "1906_hanauer",
+    "merged_witness_id": "1906_hanauer",
+    "title": "Cook's plan of Jerusalem and environs / Corrected to date by Rev. J.E. Hanauer.",
+    "mapmakers": [
+      "James Edward Hanauer"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "W & A K Johnston"
+    ],
+    "publishers": [],
+    "publication_date": "1907-01-01T00:00:00Z",
+    "survey_date": "1906-01-01T00:00:00Z",
+    "language": "English",
+    "paper_extent": null,
+    "scale": "1:2000",
+    "nli_code": "990026544230205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990026544230205171/NLI#$FL5089362"
+  },
+  {
+    "map_id": "1906_unknown",
+    "merged_witness_id": "1906_unknown",
+    "title": "Jerusalem / Grave et imprime par Wagner & Debes.",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "Wagner & Debes"
+    ],
+    "publishers": [],
+    "publication_date": "1906-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "French",
+    "paper_extent": "21.5 x 25.0 cm",
+    "scale": "1:8350",
+    "nli_code": "990023703660205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023703660205171/NLI#$FL5089233"
+  },
+  {
+    "map_id": "1907_unknown",
+    "merged_witness_id": "1907_unknown",
+    "title": "Plan of Jerusalem / John Bartholomew & Co. Edinbr.",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "John Bartholomew & Co"
+    ],
+    "publishers": [],
+    "publication_date": "1907-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "14.2x19.9 cm",
+    "scale": null,
+    "nli_code": "990034469000205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990034469000205171/NLI#$FL10591408"
+  },
+  {
+    "map_id": "1907_unknown_2",
+    "merged_witness_id": "1907_unknown_2",
+    "title": "Environs of Jerusalem / John Bartholomew & Co., Edin.r.",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "John Bartholomew & Co"
+    ],
+    "publishers": [],
+    "publication_date": "1907-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": "14.2x19.9 cm",
+    "scale": null,
+    "nli_code": "990034469000205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990034469000205171/NLI#$FL10591408"
+  },
+  {
+    "map_id": "1907_unknown_3",
+    "merged_witness_id": "1907_unknown_3",
+    "title": "Jerusalem.",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1907-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "15x20 cm",
+    "scale": "1:12000",
+    "nli_code": "997011435414105171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER997011435414105171/NLI#$FL198245532"
+  },
+  {
+    "map_id": "1907_unknown_4",
+    "merged_witness_id": "1907_unknown_4",
+    "title": "Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Survey of Egypt"
+    ],
+    "publication_date": "1907-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "en",
+    "paper_extent": "36 x 41 cm",
+    "scale": "1:5,000",
+    "nli_code": "990023670550205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990023670550205171/NLI#$FL5089158"
+  },
+  {
+    "map_id": "1911_vincent",
+    "merged_witness_id": "1911_vincent",
+    "title": "Jerusalem / croquis topographique",
+    "mapmakers": [
+      "Louis-Hugues Vincent"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": null,
+    "survey_date": "1911-01-01T00:00:00Z",
+    "language": "French",
+    "paper_extent": null,
+    "scale": "1:10000",
+    "nli_code": null,
+    "url": null
+  },
+  {
+    "map_id": "1912_conder",
+    "merged_witness_id": "1912_conder",
+    "title": "Ground plan of Jerusalem. Ground plan of modern Jerusalem",
+    "mapmakers": [
+      "Claude Reignier Conder"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1912-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "en",
+    "paper_extent": "24.4 x 17.4 cm",
+    "scale": "",
+    "nli_code": "990033696630205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990033696630205171/NLI#$FL7070622"
+  },
+  {
+    "map_id": "1912_ruze",
+    "merged_witness_id": "1912_ruze_G",
+    "title": "Jerusalem",
+    "mapmakers": [
+      "E. Ruze"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1912-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "fr",
+    "paper_extent": "32 x 27 cm",
+    "scale": "",
+    "nli_code": "990043726190205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990043726190205171/NLI#$FL66281623"
+  },
+  {
+    "map_id": "1912_ruze_2",
+    "merged_witness_id": "1912_ruze_G",
+    "title": "Plan de Jérusalem",
+    "mapmakers": [
+      "E. Ruze"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1912-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "fr",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "990039588650205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039588650205171/NLI#$FL45612585"
+  },
+  {
+    "map_id": "1912_unknown",
+    "merged_witness_id": "1912_unknown",
+    "title": "Environs de Jérusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1912-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "fr",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "990039588620205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039588620205171/NLI#$FL45612589"
+  },
+  {
+    "map_id": "1912_vincent",
+    "merged_witness_id": "1912_vincent",
+    "title": "Jérusalem : Croquis topographique / Dressé par le P. H. Vincent. Gravé et imprimé par Erhard Fres.",
+    "mapmakers": [
+      "Louis-Hugues Vincent"
+    ],
+    "surveyors": [],
+    "engravers": [
+      "Erhard, Freres"
+    ],
+    "publishers": [],
+    "publication_date": "1912-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "French",
+    "paper_extent": "46.5 x 36 cm",
+    "scale": "1:11000",
+    "nli_code": "990026812810205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990026812810205171/NLI"
+  },
+  {
+    "map_id": "1913_unknown",
+    "merged_witness_id": "1913_unknown",
+    "title": "Jerusalem.",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1913-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "German",
+    "paper_extent": "15x24 cm",
+    "scale": "1:12000",
+    "nli_code": "997011532976605171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER997011532976605171/NLI#$FL199420637"
+  },
+  {
+    "map_id": "1915_unknown",
+    "merged_witness_id": "1915_unknown",
+    "title": "Modern Jerusalem illustrating recent discoveries / John Bartholomew & Co. The Edinburgh Geographical institute.",
+    "mapmakers": [
+      "The Edinburgh Geographical institute."
+    ],
+    "surveyors": [],
+    "engravers": [
+      "John Bartholomew & Co"
+    ],
+    "publishers": [],
+    "publication_date": "1915-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "English",
+    "paper_extent": null,
+    "scale": null,
+    "nli_code": "990039081510205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039081510205171/NLI#$FL165828198"
+  },
+  {
+    "map_id": "1915_unknown_2",
+    "merged_witness_id": "1915_unknown_2",
+    "title": "Jerusalem and its Surroundings [Cartographic Material]",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1915-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "he",
+    "paper_extent": "9.4 x 8.8 cm",
+    "scale": "",
+    "nli_code": "990025009100205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990025009100205171/NLI#$FL5089231"
+  },
+  {
+    "map_id": "1917_surveyOfEgypt",
+    "merged_witness_id": "1917_surveyOfEgypt_G",
+    "title": "Environs of Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Survey of Egypt"
+    ],
+    "publication_date": null,
+    "survey_date": "1917-11-01T00:00:00Z",
+    "language": "English",
+    "paper_extent": "37x50 cm",
+    "scale": "1:10000",
+    "nli_code": "990023670430205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990023670430205171/NLI#$FL5089154"
+  },
+  {
+    "map_id": "1917_surveyOfEgypt_2",
+    "merged_witness_id": "1917_surveyOfEgypt_G",
+    "title": "Environs of Jerusalem / Survey of Egypt, 1917.",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Survey of Egypt"
+    ],
+    "publication_date": "1920-01-01T00:00:00Z",
+    "survey_date": "1917-11-01T00:00:00Z",
+    "language": "English",
+    "paper_extent": "47x63 cm",
+    "scale": "1:10000",
+    "nli_code": "990025793570205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990025793570205171/NLI#$FL25570445"
+  },
+  {
+    "map_id": "1917_surveyOfEgypt_3",
+    "merged_witness_id": "1917_surveyOfEgypt_3",
+    "title": "Environs of Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Survey of Egypt"
+    ],
+    "publication_date": "1918-01-01T00:00:00Z",
+    "survey_date": "1917-03-10T00:00:00Z",
+    "language": "en",
+    "paper_extent": "16 x 20 cm",
+    "scale": "1:25,000",
+    "nli_code": "990027226910205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990027226910205171/NLI#$FL25570474"
+  },
+  {
+    "map_id": "1917_surveyOfEgypt_4",
+    "merged_witness_id": "1917_surveyOfEgypt_4",
+    "title": "Jerusalem",
+    "mapmakers": [
+      "Survey of Egypt"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Survey of Egypt"
+    ],
+    "publication_date": "1917-01-01T00:00:00Z",
+    "survey_date": "1917-03-10T00:00:00Z",
+    "language": "en",
+    "paper_extent": "16.5 x 18.7 cm",
+    "scale": "1:11,000",
+    "nli_code": "990034357880205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990034357880205171/NLI#$FL7073986"
+  },
+  {
+    "map_id": "1919_chagise",
+    "merged_witness_id": "1919_chagise",
+    "title": "Map of Jerusalem and environs",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Joseph Levy Chagise"
+    ],
+    "publication_date": "1919-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "he",
+    "paper_extent": "27.5 x 35.0 cm",
+    "scale": null,
+    "nli_code": "990023695460205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023695460205171/NLI"
+  },
+  {
+    "map_id": "1920_zionistcommission",
+    "merged_witness_id": "1920_zionistcommission_G",
+    "title": "Map of Jerusalem and its Immediate Surroundings / Based on the Schick-Benzinger map, with corrections by the Technical Department of the Zionist Commission",
+    "mapmakers": [
+      "Technical Department of the Zionist Commission"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Monzon"
+    ],
+    "publication_date": "1920-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "he",
+    "paper_extent": "45 x 39 cm",
+    "scale": "1:10,000",
+    "nli_code": "990026365680205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990026365680205171/NLI#$FL5089358"
+  },
+  {
+    "map_id": "1920_zionistcommission_2",
+    "merged_witness_id": "1920_zionistcommission_G",
+    "title": "Map of Jerusalem and its Immediate Surroundings / Based on the Schick-Benzinger map, with corrections by the Technical Department of the Zionist Commission",
+    "mapmakers": [
+      "Technical Department of the Zionist Commission"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Monzon"
+    ],
+    "publication_date": "1920-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "he",
+    "paper_extent": "45 x 39 cm",
+    "scale": "1:10,000",
+    "nli_code": "990023675180205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023675180205171/NLI#$FL5089160"
+  },
+  {
+    "map_id": "1922_palestineLandDevelopment",
+    "merged_witness_id": "1922_palestineLandDevelopment_G",
+    "title": "Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Hevrat Hachsharat HaYishuv - The Palestine Land Development Co."
+    ],
+    "publication_date": "1922-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "he",
+    "paper_extent": "",
+    "scale": "",
+    "nli_code": "990023695490205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990023695490205171/NLI#$FL10449331"
+  },
+  {
+    "map_id": "1923_hausermann",
+    "merged_witness_id": "1923_hausermann",
+    "title": "Environs of Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "A. Hausermann"
+    ],
+    "publishers": [],
+    "publication_date": "1923-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "19.4 x 14 cm",
+    "scale": null,
+    "nli_code": "990039484710205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039484710205171/NLI#$FL45610912"
+  },
+  {
+    "map_id": "1923_hausermann_2",
+    "merged_witness_id": "1923_hausermann_2",
+    "title": "Plan of Jerusalem / Engraved by A. Hausermann, Paris",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "A. Hausermann"
+    ],
+    "publishers": [
+      "P.J. Kenedy"
+    ],
+    "publication_date": "1923-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "en",
+    "paper_extent": "14.5 x 19 cm",
+    "scale": null,
+    "nli_code": "990039484280205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990039484280205171/NLI#$FL45610904"
+  },
+  {
+    "map_id": "1923_palestineLandDevelopment",
+    "merged_witness_id": "1922_palestineLandDevelopment_G",
+    "title": "Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Hevrat Hachsharat HaYishuv - The Palestine Land Development Co."
+    ],
+    "publication_date": "1923-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "he",
+    "paper_extent": "25 x 20 cm",
+    "scale": null,
+    "nli_code": "990031487540205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990031487540205171/NLI#$FL5089290"
+  },
+  {
+    "map_id": "1924_cook",
+    "merged_witness_id": "1924_cook",
+    "title": "Cook's plan of Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [],
+    "publication_date": "1924-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "16.5 x 22 cm",
+    "scale": null,
+    "nli_code": "997009538162605171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER997009538162605171/NLI#$FL166880592"
+  },
+  {
+    "map_id": "1924_palestineLandDevelopment",
+    "merged_witness_id": "1922_palestineLandDevelopment_G",
+    "title": "Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Hevrat Hachsharat HaYishuv - The Palestine Land Development Co."
+    ],
+    "publication_date": "1924-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "he",
+    "paper_extent": "75.5 x 64 cm",
+    "scale": "",
+    "nli_code": "990039384100205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990039384100205171/NLI#$FL42848782"
+  },
+  {
+    "map_id": "1924_surveyOfEgypt",
+    "merged_witness_id": "1924_surveyOfEgypt_G",
+    "title": "Jerusalem: Street Names Map",
+    "mapmakers": [
+      "Survey of Egypt"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "For Jerusalem (Lema'an Yerushalayim)"
+    ],
+    "publication_date": "1925-01-01T00:00:00Z",
+    "survey_date": "1924-01-01T00:00:00Z",
+    "language": "he",
+    "paper_extent": "91 x 81 cm",
+    "scale": "1:5,000",
+    "nli_code": "990023672870205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990023672870205171/NLI#$FL25553640"
+  },
+  {
+    "map_id": "1924_surveyOfEgypt_2",
+    "merged_witness_id": "1924_surveyOfEgypt_G",
+    "title": "Jerusalem: Street Names Map",
+    "mapmakers": [
+      "Survey of Egypt"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Survey of Egypt"
+    ],
+    "publication_date": "1924-01-01T00:00:00Z",
+    "survey_date": "1924-01-01T00:00:00Z",
+    "language": "ar",
+    "paper_extent": "92 x 81 cm",
+    "scale": "1:5,000",
+    "nli_code": "990025143220205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990025143220205171/NLI#$FL5089237"
+  },
+  {
+    "map_id": "1924_surveyOfEgypt_3",
+    "merged_witness_id": "1924_surveyOfEgypt_G",
+    "title": "General map of Jerusalem / Survey of Egypt",
+    "mapmakers": [
+      "Survey of Egypt"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Survey of Egypt"
+    ],
+    "publication_date": null,
+    "survey_date": "1924-01-01T00:00:00Z",
+    "language": "en",
+    "paper_extent": "101 x 86 cm",
+    "scale": "1:5,000",
+    "nli_code": "990023669940205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990023669940205171/NLI#$FL32681193"
+  },
+  {
+    "map_id": "1925_americanColony",
+    "merged_witness_id": "1925_americanColony",
+    "title": "Plan of Jerusalem / Issued by Vester & Company American Colony Stores",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Vester & Company, the American Colony Stores"
+    ],
+    "publication_date": "1925-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "25 x 28 cm",
+    "scale": "",
+    "nli_code": "990044313220205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_ALEPH990044313220205171/NLI#$FL66300490"
+  },
+  {
+    "map_id": "1925_monzon",
+    "merged_witness_id": "1925_monzon",
+    "title": "Jerusalem and Environs. Based on the American Colony Relief Map",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [
+      "Defus A.L. Monzon"
+    ],
+    "publishers": [
+      "Vester and Company"
+    ],
+    "publication_date": "1925-01-01T00:00:00Z",
+    "survey_date": null,
+    "language": "en",
+    "paper_extent": "66 x 52 cm",
+    "scale": "1:8,000",
+    "nli_code": "990026548620205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990026548620205171/NLI#$FL42848782"
+  },
+  {
+    "map_id": "1925_palestineLandDevelopment",
+    "merged_witness_id": "1922_palestineLandDevelopment_G",
+    "title": "Jerusalem",
+    "mapmakers": [],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Hevrat Hachsharat HaYishuv - The Palestine Land Development Co."
+    ],
+    "publication_date": "1925-01-01T00:00:00Z",
+    "survey_date": "",
+    "language": "he",
+    "paper_extent": "73.5 x 60 cm",
+    "scale": "",
+    "nli_code": "990023700830205171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER990023700830205171/NLI#$FL42765513"
+  },
+  {
+    "map_id": "1925_surveyOfPalestine",
+    "merged_witness_id": "1925_surveyOfPalestine",
+    "title": "Jerusalem / Survey of Palestine",
+    "mapmakers": [
+      "Survey of Palestine"
+    ],
+    "surveyors": [],
+    "engravers": [],
+    "publishers": [
+      "Ordnance Survey"
+    ],
+    "publication_date": "1926-01-01T00:00:00Z",
+    "survey_date": "1925-01-01T00:00:00Z",
+    "language": "en",
+    "paper_extent": "56 x 60 cm",
+    "scale": "1:10,000",
+    "nli_code": "997012806476605171",
+    "url": "https://www.nli.org.il/en/maps/NNL_MAPS_JER997012806476605171/NLI#$FL219453078"
+  }
+]

@@ -1,0 +1,45 @@
+# Parameters used to produce this data release, for the Jerusalem corpus
+# (global stemma). Matches config.jerusalem.yaml in the code repository, with
+# local filesystem paths removed -- paths.dataset there points to the raw map
+# images/GCP files, which are not part of this release (see README.md).
+
+crs:
+  projected_epsg: 28193
+  geographic_epsg: 4326
+
+grid:
+  size_m: 150                 # 50 for local case studies (then clustering.max_distance: 0.32)
+
+distortion:
+  undeformed_threshold: 0.01  # delta <= this -> undistorted (state 0)
+
+clustering:
+  metric: distortion          # distortion-aware ratio distance
+  alpha: 20                   # distortion-aware weight
+  max_distance: 0.4           # complete-linkage cut
+
+stemma:
+  pruning_method: single_ancestor   # per-locus majority rule; see paper §5.4
+  min_shared_loci: 3
+  inheritance_primary: 0.5
+  inheritance_secondary: 0.15
+  inheritance_min_shared: 15   # a displayed (primary/secondary) edge needs >=15 shared loci
+  area: null                  # full extent (global stemma)
+  area_buffer: 100.0
+
+clone_groups:
+  1835_catherwood_G: [1835_catherwood, 1835_catherwood_2, 1835_catherwood_3]
+  1841_kiepert_G: [1841_kiepert, 1841_kiepert_2]
+  1842_bartlett_G: [1842_bartlett, 1842_bartlett_2, 1842_bartlett_3]
+  1846_vandevelde_G: [1846_vandevelde, 1846_vandevelde_2, 1846_vandevelde_3]
+  1852_vandevelde_G: [1852_vandevelde, 1852_vandevelde_2]
+  1865_wilson_G: [1865_wilson, 1865_wilson_2]
+  1876_kiepert_G: [1876_kiepert, 1880_kiepert_2]
+  1882_house_G: [1882_house, 1883_house]
+  1897_unknown_G: [1897_unknown, 1898_unknown]
+  1900_wilson_G: [1900_wilson, 1900_wilson_2]
+  1912_ruze_G: [1912_ruze, 1912_ruze_2]
+  1917_surveyOfEgypt_G: [1917_surveyOfEgypt, 1917_surveyOfEgypt_2]
+  1920_zionistcommission_G: [1920_zionistcommission, 1920_zionistcommission_2]
+  1922_palestineLandDevelopment_G: [1922_palestineLandDevelopment, 1923_palestineLandDevelopment, 1924_palestineLandDevelopment, 1925_palestineLandDevelopment]
+  1924_surveyOfEgypt_G: [1924_surveyOfEgypt, 1924_surveyOfEgypt_2, 1924_surveyOfEgypt_3]

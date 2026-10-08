@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cartostemma"
+version = "0.1.0"
+description = "Planimetric stemmatology: reconstructing genealogical relationships among historical maps from their planimetric distortions."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "Beatrice Vaienti" },
+]
+keywords = ["cartography", "stemmatology", "digital humanities", "georeferencing", "map genealogy"]
+
+# NOTE: the geospatial stack (GDAL/rasterio/pyproj) installs far more reliably
+# from conda-forge than from PyPI. See README for the recommended conda env.
+dependencies = [
+  "numpy",
+  "pandas",
+  "scipy",
+  "scikit-learn",
+  "scikit-image",
+  "shapely",
+  "rasterio",
+  "pyproj",
+  "opencv-python",
+  "networkx",
+  "alphashape",
+  "pyarrow",       # parquet interchange for the collation matrix
+  "tqdm",
+  "pyyaml",
+]
+
+[project.optional-dependencies]
+viz = ["matplotlib", "pillow"]
+dev = ["pytest"]
+
+[project.scripts]
+cartostemma = "cartostemma.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["cartostemma*"]

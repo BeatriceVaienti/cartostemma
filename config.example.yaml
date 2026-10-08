@@ -1,0 +1,60 @@
+# cartostemma configuration
+# Every tunable parameter of the pipeline lives here so that runs are
+# reproducible and no magic numbers are buried in the code.
+
+paths:
+  dataset: ./datasets/jerusalem      # input: one sub-folder per map (image + GCP csv)
+  output: ./results/jerusalem        # output: collation matrix, edges, stemma, figures
+
+crs:
+  # Source projected CRS in which distortion tokens are measured, and the
+  # geographic CRS used for lat/lon. Jerusalem used EPSG:28193 (Palestine grid).
+  # Change these for another study area.
+  projected_epsg: 28193
+  geographic_epsg: 4326
+
+grid:
+  # Spacing (in projected units, here metres) of the regular grid of loci.
+  # The paper uses 150 m for the global stemma and 50 m for local case studies.
+  size_m: 150
+
+distortion:
+  # delta = ratio_distance(token, raw undeformed reference). A token with
+  # delta <= this threshold is "undistorted" (state 0). Paper: 0.01.
+  undeformed_threshold: 0.01
+
+clustering:
+  # Complete-linkage hierarchical clustering of the distorted tokens per locus,
+  # cut at max_distance. Default metric 'distortion' = distortion-aware ratio
+  # distance D = ratio / (1 + alpha * mean_delta), which relaxes distances
+  # between strongly-distorted tokens. (Deterministic; singletons -> noise -1.)
+  # Alternatives: 'ratio', 'correlation', 'spearman', 'cosine'.
+  metric: distortion
+  alpha: 20
+  max_distance: 0.4   # 0.4 at 150 m grid, 0.32 at 50 m
+
+stemma:
+  min_shared_loci: 3          # global pruning: drop edges with < N shared loci
+  inheritance_primary: 0.5    # edges >= this ratio are "primary" (solid)
+  inheritance_secondary: 0.15 # edges in [secondary, primary) are "secondary" (dashed); below: hidden
+  inheritance_min_shared: 15  # T_abs: an edge needs >= this many shared loci to be
+                               # shown as primary/secondary, regardless of its ratio
+                               # (prevents a high ratio on a sparsely-covered map from
+                               # looking like strong evidence). Paper: 15. Optional,
+                               # defaults to 0 (no absolute floor) if omitted.
+
+  # Scope of the stemma. Loci are classified corpus-wide, then restricted to
+  # this area:
+  #   null                          -> full map extent (global stemma)
+  #   [xmin, ymin, xmax, ymax]      -> a bounding box (projected CRS)
+  #   path/to/region.shp            -> a polygon region of interest (local stemma)
+  # For a local stemma, typically pair a finer grid (grid.size_m: 50) with an area.
+  area: null
+  area_buffer: 100.0          # metres; buffer applied around the area polygon/box
+
+# Clone groups: maps that are effectively identical (reprints, translations,
+# same plate). Currently curated by hand and validated against local + global
+# similarity. Group id -> list of map folder names.
+# Leave empty to disable clone merging.
+clone_groups: {}
+#  1835_catherwood_G: [1835_catherwood, 1835_catherwood_2, 1835_catherwood_3]

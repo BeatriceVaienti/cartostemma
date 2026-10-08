@@ -1,0 +1,2434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d8" for="edge" attr.name="tier" attr.type="string"/>
+<key id="d7" for="edge" attr.name="n_target_loci" attr.type="long"/>
+<key id="d6" for="edge" attr.name="n_shared" attr.type="long"/>
+<key id="d5" for="edge" attr.name="inheritance_ratio" attr.type="double"/>
+<key id="d4" for="node" attr.name="year" attr.type="long"/>
+<key id="d3" for="node" attr.name="role" attr.type="string"/>
+<key id="d2" for="node" attr.name="hapax" attr.type="long"/>
+<key id="d1" for="node" attr.name="derivation" attr.type="long"/>
+<key id="d0" for="node" attr.name="innovation" attr.type="long"/>
+<graph edgedefault="directed"><node id="1810_clarke">
+  <data key="d0">51</data>
+  <data key="d1">0</data>
+  <data key="d2">3</data>
+  <data key="d3">innovation</data>
+  <data key="d4">1810</data>
+</node>
+<node id="1821_unknown">
+  <data key="d0">33</data>
+  <data key="d1">14</data>
+  <data key="d2">28</data>
+  <data key="d3">innovation</data>
+  <data key="d4">1821</data>
+</node>
+<node id="1822_richardson">
+  <data key="d0">17</data>
+  <data key="d1">9</data>
+  <data key="d2">13</data>
+  <data key="d3">innovation</data>
+  <data key="d4">1822</data>
+</node>
+<node id="1818_sieber">
+  <data key="d0">131</data>
+  <data key="d1">2</data>
+  <data key="d2">1</data>
+  <data key="d3">innovation</data>
+  <data key="d4">1818</data>
+</node>
+<node id="1823_westphal">
+  <data key="d0">88</data>
+  <data key="d1">19</data>
+  <data key="d2">0</data>
+  <data key="d3">innovation</data>
+  <data key="d4">1823</data>
+</node>
+<node id="1827_failoni">
+  <data key="d0">44</data>
+  <data key="d1">16</data>
+  <data key="d2">12</data>
+  <data key="d3">innovation</data>
+  <data key="d4">1827</data>
+</node>
+<node id="1835_catherwood_G">
+  <data key="d0">88</data>
+  <data key="d1">99</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1835</data>
+</node>
+<node id="1836_unknown">
+  <data key="d0">30</data>
+  <data key="d1">27</data>
+  <data key="d2">30</data>
+  <data key="d3">innovation</data>
+  <data key="d4">1836</data>
+</node>
+<node id="183-_starling">
+  <data key="d0">9</data>
+  <data key="d1">4</data>
+  <data key="d2">11</data>
+  <data key="d3">hapax</data>
+  <data key="d4">1835</data>
+</node>
+<node id="1837_dufour">
+  <data key="d0">9</data>
+  <data key="d1">121</data>
+  <data key="d2">1</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1837</data>
+</node>
+<node id="1837_unknown">
+  <data key="d0">8</data>
+  <data key="d1">123</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1837</data>
+</node>
+<node id="1837_unknown_2">
+  <data key="d0">25</data>
+  <data key="d1">68</data>
+  <data key="d2">1</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1837</data>
+</node>
+<node id="1840_renner">
+  <data key="d0">33</data>
+  <data key="d1">92</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1840</data>
+</node>
+<node id="1841_aldrich_symonds">
+  <data key="d0">98</data>
+  <data key="d1">34</data>
+  <data key="d2">0</data>
+  <data key="d3">innovation</data>
+  <data key="d4">1841</data>
+</node>
+<node id="1841_kiepert_G">
+  <data key="d0">68</data>
+  <data key="d1">70</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1841</data>
+</node>
+<node id="1842_bartlett_G">
+  <data key="d0">18</data>
+  <data key="d1">131</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1842</data>
+</node>
+<node id="1843_unknown">
+  <data key="d0">23</data>
+  <data key="d1">104</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1843</data>
+</node>
+<node id="1843_ball">
+  <data key="d0">26</data>
+  <data key="d1">97</data>
+  <data key="d2">3</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1843</data>
+</node>
+<node id="1844_unknown">
+  <data key="d0">44</data>
+  <data key="d1">95</data>
+  <data key="d2">3</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1844</data>
+</node>
+<node id="1845_kiepert">
+  <data key="d0">16</data>
+  <data key="d1">107</data>
+  <data key="d2">2</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1845</data>
+</node>
+<node id="1845_tobler">
+  <data key="d0">46</data>
+  <data key="d1">64</data>
+  <data key="d2">12</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1845</data>
+</node>
+<node id="1845_williams">
+  <data key="d0">25</data>
+  <data key="d1">91</data>
+  <data key="d2">2</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1845</data>
+</node>
+<node id="1846_vandevelde_G">
+  <data key="d0">95</data>
+  <data key="d1">102</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1846</data>
+</node>
+<node id="1846_krafft">
+  <data key="d0">3</data>
+  <data key="d1">119</data>
+  <data key="d2">5</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1846</data>
+</node>
+<node id="1848_gadow">
+  <data key="d0">23</data>
+  <data key="d1">32</data>
+  <data key="d2">12</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1848</data>
+</node>
+<node id="1851_unknown">
+  <data key="d0">31</data>
+  <data key="d1">51</data>
+  <data key="d2">3</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1851</data>
+</node>
+<node id="1852_vandevelde_G">
+  <data key="d0">41</data>
+  <data key="d1">109</data>
+  <data key="d2">2</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1852</data>
+</node>
+<node id="1852_lange">
+  <data key="d0">18</data>
+  <data key="d1">122</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1852</data>
+</node>
+<node id="1853_zimpel">
+  <data key="d0">18</data>
+  <data key="d1">109</data>
+  <data key="d2">6</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1853</data>
+</node>
+<node id="1854_unknown">
+  <data key="d0">10</data>
+  <data key="d1">122</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1854</data>
+</node>
+<node id="1854_unknown_2">
+  <data key="d0">0</data>
+  <data key="d1">132</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1854</data>
+</node>
+<node id="1854_coleman">
+  <data key="d0">1</data>
+  <data key="d1">66</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1854</data>
+</node>
+<node id="18--_unknown">
+  <data key="d0">18</data>
+  <data key="d1">119</data>
+  <data key="d2">1</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1855</data>
+</node>
+<node id="1855_thrupp">
+  <data key="d0">7</data>
+  <data key="d1">109</data>
+  <data key="d2">2</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1855</data>
+</node>
+<node id="1855_pierotti">
+  <data key="d0">33</data>
+  <data key="d1">74</data>
+  <data key="d2">6</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1855</data>
+</node>
+<node id="18--_unknown_2">
+  <data key="d0">11</data>
+  <data key="d1">33</data>
+  <data key="d2">1</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1855</data>
+</node>
+<node id="1856_warburton">
+  <data key="d0">9</data>
+  <data key="d1">130</data>
+  <data key="d2">4</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1856</data>
+</node>
+<node id="1856_barclay">
+  <data key="d0">5</data>
+  <data key="d1">106</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1856</data>
+</node>
+<node id="1856_kiepert">
+  <data key="d0">7</data>
+  <data key="d1">120</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1856</data>
+</node>
+<node id="1856_unknown_2">
+  <data key="d0">7</data>
+  <data key="d1">114</data>
+  <data key="d2">1</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1856</data>
+</node>
+<node id="1856_unknown">
+  <data key="d0">3</data>
+  <data key="d1">77</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1856</data>
+</node>
+<node id="1856_stanley">
+  <data key="d0">13</data>
+  <data key="d1">60</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1856</data>
+</node>
+<node id="1857_sherwin">
+  <data key="d0">9</data>
+  <data key="d1">64</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1857</data>
+</node>
+<node id="1858_vandevelde">
+  <data key="d0">4</data>
+  <data key="d1">145</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1858</data>
+</node>
+<node id="1858_gratz">
+  <data key="d0">1</data>
+  <data key="d1">102</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1858</data>
+</node>
+<node id="1859_unknown">
+  <data key="d0">0</data>
+  <data key="d1">136</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1859</data>
+</node>
+<node id="1859_saintine_2">
+  <data key="d0">12</data>
+  <data key="d1">114</data>
+  <data key="d2">8</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1859</data>
+</node>
+<node id="1859_saintine">
+  <data key="d0">4</data>
+  <data key="d1">66</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1859</data>
+</node>
+<node id="1860_bartholomew">
+  <data key="d0">8</data>
+  <data key="d1">147</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1860</data>
+</node>
+<node id="1860_pierotti">
+  <data key="d0">10</data>
+  <data key="d1">142</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1860</data>
+</node>
+<node id="1860_pierotti_2">
+  <data key="d0">13</data>
+  <data key="d1">124</data>
+  <data key="d2">2</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1860</data>
+</node>
+<node id="1861_lionnet">
+  <data key="d0">8</data>
+  <data key="d1">128</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1861</data>
+</node>
+<node id="1861_mandrot">
+  <data key="d0">0</data>
+  <data key="d1">104</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1861</data>
+</node>
+<node id="1862_johnson">
+  <data key="d0">3</data>
+  <data key="d1">87</data>
+  <data key="d2">2</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1862</data>
+</node>
+<node id="1862_devogue">
+  <data key="d0">1</data>
+  <data key="d1">15</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1862</data>
+</node>
+<node id="1863_pierotti">
+  <data key="d0">9</data>
+  <data key="d1">143</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1863</data>
+</node>
+<node id="1863_gelis">
+  <data key="d0">2</data>
+  <data key="d1">42</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1863</data>
+</node>
+<node id="1864_pierotti">
+  <data key="d0">3</data>
+  <data key="d1">149</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1864</data>
+</node>
+<node id="1864_mitchell">
+  <data key="d0">2</data>
+  <data key="d1">61</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1864</data>
+</node>
+<node id="1865_wilson_G">
+  <data key="d0">112</data>
+  <data key="d1">73</data>
+  <data key="d2">0</data>
+  <data key="d3">innovation</data>
+  <data key="d4">1865</data>
+</node>
+<node id="1865_riess">
+  <data key="d0">2</data>
+  <data key="d1">149</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1865</data>
+</node>
+<node id="1865_fehr">
+  <data key="d0">12</data>
+  <data key="d1">139</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1865</data>
+</node>
+<node id="1865_unknown">
+  <data key="d0">0</data>
+  <data key="d1">108</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1865</data>
+</node>
+<node id="1866_weller">
+  <data key="d0">18</data>
+  <data key="d1">157</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1866</data>
+</node>
+<node id="1866_gelis">
+  <data key="d0">3</data>
+  <data key="d1">140</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1866</data>
+</node>
+<node id="1866_vandevelde">
+  <data key="d0">2</data>
+  <data key="d1">138</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1866</data>
+</node>
+<node id="1866_unknown">
+  <data key="d0">2</data>
+  <data key="d1">82</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1866</data>
+</node>
+<node id="1866_unknown_2">
+  <data key="d0">5</data>
+  <data key="d1">35</data>
+  <data key="d2">6</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1866</data>
+</node>
+<node id="1867_roberts">
+  <data key="d0">1</data>
+  <data key="d1">61</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1867</data>
+</node>
+<node id="1868_unknown">
+  <data key="d0">0</data>
+  <data key="d1">77</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1868</data>
+</node>
+<node id="1869_pierotti">
+  <data key="d0">4</data>
+  <data key="d1">140</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1869</data>
+</node>
+<node id="1869_pierotti_2">
+  <data key="d0">3</data>
+  <data key="d1">89</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1869</data>
+</node>
+<node id="1870_warren">
+  <data key="d0">0</data>
+  <data key="d1">17</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1870</data>
+</node>
+<node id="1871_howe">
+  <data key="d0">3</data>
+  <data key="d1">140</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1871</data>
+</node>
+<node id="1871_whitney">
+  <data key="d0">1</data>
+  <data key="d1">75</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1871</data>
+</node>
+<node id="1872_wolff">
+  <data key="d0">0</data>
+  <data key="d1">141</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1872</data>
+</node>
+<node id="1873_rawson">
+  <data key="d0">6</data>
+  <data key="d1">126</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1873</data>
+</node>
+<node id="1873_illes">
+  <data key="d0">6</data>
+  <data key="d1">100</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1873</data>
+</node>
+<node id="1873_conder">
+  <data key="d0">0</data>
+  <data key="d1">43</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1873</data>
+</node>
+<node id="1874_saunders">
+  <data key="d0">1</data>
+  <data key="d1">42</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1874</data>
+</node>
+<node id="1874_unknown">
+  <data key="d0">15</data>
+  <data key="d1">109</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1874</data>
+</node>
+<node id="1875_weller">
+  <data key="d0">2</data>
+  <data key="d1">132</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1875</data>
+</node>
+<node id="1875_unknown_2">
+  <data key="d0">0</data>
+  <data key="d1">49</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1875</data>
+</node>
+<node id="1875_unknown">
+  <data key="d0">0</data>
+  <data key="d1">43</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1875</data>
+</node>
+<node id="187-_hughes">
+  <data key="d0">1</data>
+  <data key="d1">22</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1875</data>
+</node>
+<node id="1876_kiepert_G">
+  <data key="d0">94</data>
+  <data key="d1">221</data>
+  <data key="d2">2</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1876</data>
+</node>
+<node id="1876_unknown">
+  <data key="d0">1</data>
+  <data key="d1">125</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1876</data>
+</node>
+<node id="1876_ancessi">
+  <data key="d0">0</data>
+  <data key="d1">102</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1876</data>
+</node>
+<node id="1876_zimmermann">
+  <data key="d0">0</data>
+  <data key="d1">47</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1876</data>
+</node>
+<node id="1877_gatt">
+  <data key="d0">7</data>
+  <data key="d1">125</data>
+  <data key="d2">30</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1877</data>
+</node>
+<node id="1877_unknown">
+  <data key="d0">3</data>
+  <data key="d1">150</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1877</data>
+</node>
+<node id="1878_unknown">
+  <data key="d0">2</data>
+  <data key="d1">125</data>
+  <data key="d2">3</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1878</data>
+</node>
+<node id="1879_unknown">
+  <data key="d0">0</data>
+  <data key="d1">130</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1879</data>
+</node>
+<node id="1879_conder">
+  <data key="d0">0</data>
+  <data key="d1">44</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1879</data>
+</node>
+<node id="1880_kiepert">
+  <data key="d0">0</data>
+  <data key="d1">59</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1880</data>
+</node>
+<node id="1881_unknown">
+  <data key="d0">1</data>
+  <data key="d1">114</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1881</data>
+</node>
+<node id="1881_pierotti">
+  <data key="d0">3</data>
+  <data key="d1">110</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1881</data>
+</node>
+<node id="1881_guerin">
+  <data key="d0">0</data>
+  <data key="d1">41</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1881</data>
+</node>
+<node id="1881_magnenat-gloor">
+  <data key="d0">1</data>
+  <data key="d1">78</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1881</data>
+</node>
+<node id="1882_thuillier">
+  <data key="d0">0</data>
+  <data key="d1">93</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1882</data>
+</node>
+<node id="1882_guthe">
+  <data key="d0">1</data>
+  <data key="d1">99</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1882</data>
+</node>
+<node id="1882_house_G">
+  <data key="d0">4</data>
+  <data key="d1">113</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1882</data>
+</node>
+<node id="1882_unknown_2">
+  <data key="d0">7</data>
+  <data key="d1">79</data>
+  <data key="d2">1</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1882</data>
+</node>
+<node id="1882_unknown">
+  <data key="d0">0</data>
+  <data key="d1">72</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1882</data>
+</node>
+<node id="1883_sandreczki">
+  <data key="d0">0</data>
+  <data key="d1">3</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1883</data>
+</node>
+<node id="1884_perron">
+  <data key="d0">0</data>
+  <data key="d1">159</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1884</data>
+</node>
+<node id="188-_unknown">
+  <data key="d0">18</data>
+  <data key="d1">158</data>
+  <data key="d2">1</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1885</data>
+</node>
+<node id="1885_barkdull">
+  <data key="d0">0</data>
+  <data key="d1">101</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1885</data>
+</node>
+<node id="1885_muret">
+  <data key="d0">0</data>
+  <data key="d1">101</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1885</data>
+</node>
+<node id="1885_unknown">
+  <data key="d0">0</data>
+  <data key="d1">31</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1885</data>
+</node>
+<node id="1886_nicole">
+  <data key="d0">14</data>
+  <data key="d1">191</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1886</data>
+</node>
+<node id="1886_PEF">
+  <data key="d0">0</data>
+  <data key="d1">41</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1886</data>
+</node>
+<node id="1887_hurlbut">
+  <data key="d0">0</data>
+  <data key="d1">97</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1887</data>
+</node>
+<node id="1887_unknown">
+  <data key="d0">0</data>
+  <data key="d1">90</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1887</data>
+</node>
+<node id="1887_riess">
+  <data key="d0">0</data>
+  <data key="d1">74</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1887</data>
+</node>
+<node id="1887_unknown_2">
+  <data key="d0">0</data>
+  <data key="d1">47</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1887</data>
+</node>
+<node id="1888_pierotti">
+  <data key="d0">28</data>
+  <data key="d1">248</data>
+  <data key="d2">1</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1888</data>
+</node>
+<node id="1888_pierotti_2">
+  <data key="d0">2</data>
+  <data key="d1">155</data>
+  <data key="d2">2</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1888</data>
+</node>
+<node id="1888_temple">
+  <data key="d0">0</data>
+  <data key="d1">93</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1888</data>
+</node>
+<node id="1888_nicole">
+  <data key="d0">0</data>
+  <data key="d1">22</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1888</data>
+</node>
+<node id="1888_unknown">
+  <data key="d0">0</data>
+  <data key="d1">33</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1888</data>
+</node>
+<node id="1889_ruze">
+  <data key="d0">0</data>
+  <data key="d1">46</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1889</data>
+</node>
+<node id="1890_unknown">
+  <data key="d0">0</data>
+  <data key="d1">111</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1890</data>
+</node>
+<node id="1891_unknown">
+  <data key="d0">0</data>
+  <data key="d1">121</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1891</data>
+</node>
+<node id="1893_unknown">
+  <data key="d0">0</data>
+  <data key="d1">54</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1893</data>
+</node>
+<node id="1893_nicole">
+  <data key="d0">0</data>
+  <data key="d1">39</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1893</data>
+</node>
+<node id="1893_unknown_2">
+  <data key="d0">0</data>
+  <data key="d1">72</data>
+  <data key="d2">2</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1893</data>
+</node>
+<node id="1894_schick">
+  <data key="d0">125</data>
+  <data key="d1">327</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1894</data>
+</node>
+<node id="1895_unknown_2">
+  <data key="d0">11</data>
+  <data key="d1">271</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1895</data>
+</node>
+<node id="189-_unknown_2">
+  <data key="d0">1</data>
+  <data key="d1">156</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1895</data>
+</node>
+<node id="189-_unknown">
+  <data key="d0">0</data>
+  <data key="d1">90</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1895</data>
+</node>
+<node id="1895_riess">
+  <data key="d0">1</data>
+  <data key="d1">88</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1895</data>
+</node>
+<node id="1895_unknown">
+  <data key="d0">0</data>
+  <data key="d1">83</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1895</data>
+</node>
+<node id="1896_unknown">
+  <data key="d0">0</data>
+  <data key="d1">83</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1896</data>
+</node>
+<node id="1896_philip">
+  <data key="d0">0</data>
+  <data key="d1">70</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1896</data>
+</node>
+<node id="1897_unknown_G">
+  <data key="d0">1</data>
+  <data key="d1">98</data>
+  <data key="d2">1</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1897</data>
+</node>
+<node id="1897_harris">
+  <data key="d0">1</data>
+  <data key="d1">34</data>
+  <data key="d2">8</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1897</data>
+</node>
+<node id="1898_schneller">
+  <data key="d0">15</data>
+  <data key="d1">255</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1898</data>
+</node>
+<node id="1899_unknown">
+  <data key="d0">0</data>
+  <data key="d1">134</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1899</data>
+</node>
+<node id="1899_unknown_2">
+  <data key="d0">0</data>
+  <data key="d1">53</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1899</data>
+</node>
+<node id="1899_unknown_3">
+  <data key="d0">0</data>
+  <data key="d1">43</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1899</data>
+</node>
+<node id="1900_wilson_G">
+  <data key="d0">0</data>
+  <data key="d1">63</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1900</data>
+</node>
+<node id="1901_unknown">
+  <data key="d0">16</data>
+  <data key="d1">212</data>
+  <data key="d2">10</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1901</data>
+</node>
+<node id="1902_unknown">
+  <data key="d0">0</data>
+  <data key="d1">112</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1902</data>
+</node>
+<node id="1903_unknown">
+  <data key="d0">0</data>
+  <data key="d1">134</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1903</data>
+</node>
+<node id="1904_kuemmel">
+  <data key="d0">0</data>
+  <data key="d1">75</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1904</data>
+</node>
+<node id="1904_unknown">
+  <data key="d0">0</data>
+  <data key="d1">111</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1904</data>
+</node>
+<node id="1905_schick">
+  <data key="d0">48</data>
+  <data key="d1">390</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1905</data>
+</node>
+<node id="1905_unknown">
+  <data key="d0">0</data>
+  <data key="d1">92</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1905</data>
+</node>
+<node id="1906_hanauer">
+  <data key="d0">19</data>
+  <data key="d1">394</data>
+  <data key="d2">10</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1906</data>
+</node>
+<node id="1906_unknown">
+  <data key="d0">0</data>
+  <data key="d1">91</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1906</data>
+</node>
+<node id="1907_unknown_2">
+  <data key="d0">8</data>
+  <data key="d1">233</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1907</data>
+</node>
+<node id="1907_unknown_4">
+  <data key="d0">0</data>
+  <data key="d1">107</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1907</data>
+</node>
+<node id="1907_unknown_3">
+  <data key="d0">0</data>
+  <data key="d1">94</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1907</data>
+</node>
+<node id="1907_unknown">
+  <data key="d0">0</data>
+  <data key="d1">54</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1907</data>
+</node>
+<node id="1911_vincent">
+  <data key="d0">106</data>
+  <data key="d1">415</data>
+  <data key="d2">2</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1911</data>
+</node>
+<node id="1912_vincent">
+  <data key="d0">7</data>
+  <data key="d1">513</data>
+  <data key="d2">11</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1912</data>
+</node>
+<node id="1912_unknown">
+  <data key="d0">9</data>
+  <data key="d1">277</data>
+  <data key="d2">10</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1912</data>
+</node>
+<node id="1912_conder">
+  <data key="d0">0</data>
+  <data key="d1">148</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1912</data>
+</node>
+<node id="1912_ruze_G">
+  <data key="d0">0</data>
+  <data key="d1">74</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1912</data>
+</node>
+<node id="1913_unknown">
+  <data key="d0">0</data>
+  <data key="d1">135</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1913</data>
+</node>
+<node id="1915_unknown">
+  <data key="d0">0</data>
+  <data key="d1">124</data>
+  <data key="d2">6</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1915</data>
+</node>
+<node id="1915_unknown_2">
+  <data key="d0">0</data>
+  <data key="d1">75</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1915</data>
+</node>
+<node id="1917_surveyOfEgypt_G">
+  <data key="d0">41</data>
+  <data key="d1">488</data>
+  <data key="d2">3</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1917</data>
+</node>
+<node id="1917_surveyOfEgypt_3">
+  <data key="d0">12</data>
+  <data key="d1">387</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1917</data>
+</node>
+<node id="1917_surveyOfEgypt_4">
+  <data key="d0">0</data>
+  <data key="d1">111</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1917</data>
+</node>
+<node id="1919_chagise">
+  <data key="d0">3</data>
+  <data key="d1">347</data>
+  <data key="d2">9</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1919</data>
+</node>
+<node id="1920_zionistcommission_G">
+  <data key="d0">17</data>
+  <data key="d1">573</data>
+  <data key="d2">4</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1920</data>
+</node>
+<node id="1922_palestineLandDevelopment_G">
+  <data key="d0">35</data>
+  <data key="d1">741</data>
+  <data key="d2">116</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1922</data>
+</node>
+<node id="1923_hausermann">
+  <data key="d0">0</data>
+  <data key="d1">441</data>
+  <data key="d2">4</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1923</data>
+</node>
+<node id="1923_hausermann_2">
+  <data key="d0">0</data>
+  <data key="d1">61</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1923</data>
+</node>
+<node id="1924_surveyOfEgypt_G">
+  <data key="d0">25</data>
+  <data key="d1">649</data>
+  <data key="d2">15</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1924</data>
+</node>
+<node id="1924_cook">
+  <data key="d0">0</data>
+  <data key="d1">213</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1924</data>
+</node>
+<node id="1925_monzon">
+  <data key="d0">0</data>
+  <data key="d1">396</data>
+  <data key="d2">10</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1925</data>
+</node>
+<node id="1925_americanColony">
+  <data key="d0">0</data>
+  <data key="d1">151</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1925</data>
+</node>
+<node id="19--_unknown">
+  <data key="d0">0</data>
+  <data key="d1">92</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1925</data>
+</node>
+<node id="19--_frassi">
+  <data key="d0">0</data>
+  <data key="d1">48</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1925</data>
+</node>
+<node id="1865_sandreczki">
+  <data key="d0">0</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">derivation</data>
+  <data key="d4">1865</data>
+</node>
+<node id="1925_surveyOfPalestine">
+  <data key="d0">0</data>
+  <data key="d1">0</data>
+  <data key="d2">0</data>
+  <data key="d3">none</data>
+  <data key="d4">1925</data>
+</node>
+<edge source="1818_sieber" target="1835_catherwood_G">
+  <data key="d5">0.7121212121212122</data>
+  <data key="d6">94</data>
+  <data key="d7">132</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1823_westphal" target="1840_renner">
+  <data key="d5">0.616</data>
+  <data key="d6">77</data>
+  <data key="d7">125</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1835_catherwood_G" target="1837_dufour">
+  <data key="d5">0.9083969465648855</data>
+  <data key="d6">119</data>
+  <data key="d7">131</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1835_catherwood_G" target="1837_unknown">
+  <data key="d5">0.8396946564885496</data>
+  <data key="d6">110</data>
+  <data key="d7">131</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1835_catherwood_G" target="1837_unknown_2">
+  <data key="d5">0.5957446808510638</data>
+  <data key="d6">56</data>
+  <data key="d7">94</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1835_catherwood_G" target="1841_kiepert_G">
+  <data key="d5">0.3700787401574803</data>
+  <data key="d6">47</data>
+  <data key="d7">127</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1835_catherwood_G" target="1843_ball">
+  <data key="d5">0.1984126984126984</data>
+  <data key="d6">25</data>
+  <data key="d7">126</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1835_catherwood_G" target="1859_saintine_2">
+  <data key="d5">0.208955223880597</data>
+  <data key="d6">28</data>
+  <data key="d7">134</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1841_aldrich_symonds" target="1846_vandevelde_G">
+  <data key="d5">0.35714285714285715</data>
+  <data key="d6">50</data>
+  <data key="d7">140</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1841_aldrich_symonds" target="1852_vandevelde_G">
+  <data key="d5">0.3466666666666667</data>
+  <data key="d6">52</data>
+  <data key="d7">150</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1841_aldrich_symonds" target="1852_lange">
+  <data key="d5">0.6857142857142857</data>
+  <data key="d6">96</data>
+  <data key="d7">140</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1841_aldrich_symonds" target="1853_zimpel">
+  <data key="d5">0.39849624060150374</data>
+  <data key="d6">53</data>
+  <data key="d7">133</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1841_aldrich_symonds" target="1893_unknown_2">
+  <data key="d5">0.7162162162162162</data>
+  <data key="d6">53</data>
+  <data key="d7">74</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1841_kiepert_G" target="1842_bartlett_G">
+  <data key="d5">0.8527131782945736</data>
+  <data key="d6">110</data>
+  <data key="d7">129</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1842_bartlett_G" target="1843_unknown">
+  <data key="d5">0.5275590551181102</data>
+  <data key="d6">67</data>
+  <data key="d7">127</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1842_bartlett_G" target="1843_ball">
+  <data key="d5">0.4365079365079365</data>
+  <data key="d6">55</data>
+  <data key="d7">126</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1842_bartlett_G" target="1845_kiepert">
+  <data key="d5">0.624</data>
+  <data key="d6">78</data>
+  <data key="d7">125</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1842_bartlett_G" target="1845_williams">
+  <data key="d5">0.3728813559322034</data>
+  <data key="d6">44</data>
+  <data key="d7">118</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1842_bartlett_G" target="1854_unknown_2">
+  <data key="d5">0.6136363636363636</data>
+  <data key="d6">81</data>
+  <data key="d7">132</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1842_bartlett_G" target="1915_unknown_2">
+  <data key="d5">0.37333333333333335</data>
+  <data key="d6">28</data>
+  <data key="d7">75</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1843_unknown" target="1844_unknown">
+  <data key="d5">0.2676056338028169</data>
+  <data key="d6">38</data>
+  <data key="d7">142</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1843_unknown" target="1856_warburton">
+  <data key="d5">0.34965034965034963</data>
+  <data key="d6">50</data>
+  <data key="d7">143</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1844_unknown" target="1856_warburton">
+  <data key="d5">0.18181818181818182</data>
+  <data key="d6">26</data>
+  <data key="d7">143</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1845_kiepert" target="1845_tobler">
+  <data key="d5">0.19672131147540983</data>
+  <data key="d6">24</data>
+  <data key="d7">122</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1845_kiepert" target="1846_krafft">
+  <data key="d5">0.5039370078740157</data>
+  <data key="d6">64</data>
+  <data key="d7">127</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1845_kiepert" target="1854_unknown">
+  <data key="d5">0.4090909090909091</data>
+  <data key="d6">54</data>
+  <data key="d7">132</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1846_vandevelde_G" target="1853_zimpel">
+  <data key="d5">0.16541353383458646</data>
+  <data key="d6">22</data>
+  <data key="d7">133</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1846_vandevelde_G" target="18--_unknown">
+  <data key="d5">0.5</data>
+  <data key="d6">69</data>
+  <data key="d7">138</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1846_vandevelde_G" target="1855_thrupp">
+  <data key="d5">0.15254237288135594</data>
+  <data key="d6">18</data>
+  <data key="d7">118</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1846_vandevelde_G" target="1855_pierotti">
+  <data key="d5">0.24778761061946902</data>
+  <data key="d6">28</data>
+  <data key="d7">113</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1846_vandevelde_G" target="1856_barclay">
+  <data key="d5">0.22522522522522523</data>
+  <data key="d6">25</data>
+  <data key="d7">111</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1846_vandevelde_G" target="1858_vandevelde">
+  <data key="d5">0.7046979865771812</data>
+  <data key="d6">105</data>
+  <data key="d7">149</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1846_vandevelde_G" target="1860_bartholomew">
+  <data key="d5">0.7225806451612903</data>
+  <data key="d6">112</data>
+  <data key="d7">155</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1846_vandevelde_G" target="1861_mandrot">
+  <data key="d5">0.8076923076923077</data>
+  <data key="d6">84</data>
+  <data key="d7">104</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1846_vandevelde_G" target="1865_riess">
+  <data key="d5">0.695364238410596</data>
+  <data key="d6">105</data>
+  <data key="d7">151</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1846_vandevelde_G" target="1865_fehr">
+  <data key="d5">0.6423841059602649</data>
+  <data key="d6">97</data>
+  <data key="d7">151</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1846_vandevelde_G" target="1881_magnenat-gloor">
+  <data key="d5">0.45569620253164556</data>
+  <data key="d6">36</data>
+  <data key="d7">79</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1846_vandevelde_G" target="1888_temple">
+  <data key="d5">0.40860215053763443</data>
+  <data key="d6">38</data>
+  <data key="d7">93</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1846_vandevelde_G" target="1899_unknown">
+  <data key="d5">0.6268656716417911</data>
+  <data key="d6">84</data>
+  <data key="d7">134</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1846_krafft" target="1856_kiepert">
+  <data key="d5">0.18110236220472442</data>
+  <data key="d6">23</data>
+  <data key="d7">127</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1851_unknown" target="1856_stanley">
+  <data key="d5">0.2328767123287671</data>
+  <data key="d6">17</data>
+  <data key="d7">73</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1852_vandevelde_G" target="1859_unknown">
+  <data key="d5">0.6911764705882353</data>
+  <data key="d6">94</data>
+  <data key="d7">136</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1852_vandevelde_G" target="1897_unknown_G">
+  <data key="d5">0.3380281690140845</data>
+  <data key="d6">24</data>
+  <data key="d7">71</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1852_lange" target="1854_coleman">
+  <data key="d5">0.6865671641791045</data>
+  <data key="d6">46</data>
+  <data key="d7">67</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1852_lange" target="1855_thrupp">
+  <data key="d5">0.3813559322033898</data>
+  <data key="d6">45</data>
+  <data key="d7">118</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1852_lange" target="1856_kiepert">
+  <data key="d5">0.4094488188976378</data>
+  <data key="d6">52</data>
+  <data key="d7">127</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1852_lange" target="1858_gratz">
+  <data key="d5">0.6019417475728155</data>
+  <data key="d6">62</data>
+  <data key="d7">103</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1852_lange" target="1864_mitchell">
+  <data key="d5">0.6031746031746031</data>
+  <data key="d6">38</data>
+  <data key="d7">63</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1852_lange" target="1882_house_G">
+  <data key="d5">0.27835051546391754</data>
+  <data key="d6">27</data>
+  <data key="d7">97</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1853_zimpel" target="1878_unknown">
+  <data key="d5">0.2846153846153846</data>
+  <data key="d6">37</data>
+  <data key="d7">130</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1854_unknown" target="1856_unknown_2">
+  <data key="d5">0.45081967213114754</data>
+  <data key="d6">55</data>
+  <data key="d7">122</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1854_unknown_2" target="1862_johnson">
+  <data key="d5">0.30434782608695654</data>
+  <data key="d6">28</data>
+  <data key="d7">92</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1854_unknown_2" target="1876_ancessi">
+  <data key="d5">0.3235294117647059</data>
+  <data key="d6">33</data>
+  <data key="d7">102</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1854_coleman" target="1856_unknown">
+  <data key="d5">0.4625</data>
+  <data key="d6">37</data>
+  <data key="d7">80</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1855_pierotti" target="1856_barclay">
+  <data key="d5">0.3963963963963964</data>
+  <data key="d6">44</data>
+  <data key="d7">111</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1855_pierotti" target="1857_sherwin">
+  <data key="d5">0.3424657534246575</data>
+  <data key="d6">25</data>
+  <data key="d7">73</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1855_pierotti" target="1860_pierotti">
+  <data key="d5">0.15789473684210525</data>
+  <data key="d6">24</data>
+  <data key="d7">152</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1856_warburton" target="1861_lionnet">
+  <data key="d5">0.21323529411764705</data>
+  <data key="d6">29</data>
+  <data key="d7">136</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1856_barclay" target="1859_saintine">
+  <data key="d5">0.2857142857142857</data>
+  <data key="d6">20</data>
+  <data key="d7">70</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1856_barclay" target="1860_pierotti">
+  <data key="d5">0.3618421052631579</data>
+  <data key="d6">55</data>
+  <data key="d7">152</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1856_barclay" target="1865_wilson_G">
+  <data key="d5">0.1956521739130435</data>
+  <data key="d6">36</data>
+  <data key="d7">184</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1857_sherwin" target="1867_roberts">
+  <data key="d5">0.6612903225806451</data>
+  <data key="d6">41</data>
+  <data key="d7">62</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1858_gratz" target="1861_lionnet">
+  <data key="d5">0.16911764705882354</data>
+  <data key="d6">23</data>
+  <data key="d7">136</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1859_unknown" target="1882_house_G">
+  <data key="d5">0.16494845360824742</data>
+  <data key="d6">16</data>
+  <data key="d7">97</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1859_saintine_2" target="1859_saintine">
+  <data key="d5">0.3</data>
+  <data key="d6">21</data>
+  <data key="d7">70</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1860_pierotti" target="1860_pierotti_2">
+  <data key="d5">0.48201438848920863</data>
+  <data key="d6">67</data>
+  <data key="d7">139</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1860_pierotti" target="1863_pierotti">
+  <data key="d5">0.5657894736842105</data>
+  <data key="d6">86</data>
+  <data key="d7">152</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1860_pierotti" target="1863_gelis">
+  <data key="d5">0.6818181818181818</data>
+  <data key="d6">30</data>
+  <data key="d7">44</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1860_pierotti" target="1864_pierotti">
+  <data key="d5">0.6644736842105263</data>
+  <data key="d6">101</data>
+  <data key="d7">152</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1860_pierotti" target="1866_weller">
+  <data key="d5">0.34285714285714286</data>
+  <data key="d6">60</data>
+  <data key="d7">175</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1860_pierotti" target="1866_gelis">
+  <data key="d5">0.4965034965034965</data>
+  <data key="d6">71</data>
+  <data key="d7">143</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1860_pierotti" target="1866_unknown">
+  <data key="d5">0.17857142857142858</data>
+  <data key="d6">15</data>
+  <data key="d7">84</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1860_pierotti" target="1869_pierotti">
+  <data key="d5">0.6180555555555556</data>
+  <data key="d6">89</data>
+  <data key="d7">144</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1861_lionnet" target="1877_unknown">
+  <data key="d5">0.3202614379084967</data>
+  <data key="d6">49</data>
+  <data key="d7">153</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1861_mandrot" target="1865_unknown">
+  <data key="d5">0.8055555555555556</data>
+  <data key="d6">87</data>
+  <data key="d7">108</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1863_pierotti" target="1869_pierotti_2">
+  <data key="d5">0.5</data>
+  <data key="d6">46</data>
+  <data key="d7">92</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1863_gelis" target="1887_unknown_2">
+  <data key="d5">0.7872340425531915</data>
+  <data key="d6">37</data>
+  <data key="d7">47</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1864_pierotti" target="1868_unknown">
+  <data key="d5">0.6883116883116883</data>
+  <data key="d6">53</data>
+  <data key="d7">77</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1864_pierotti" target="1872_wolff">
+  <data key="d5">0.16312056737588654</data>
+  <data key="d6">23</data>
+  <data key="d7">141</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1864_pierotti" target="19--_frassi">
+  <data key="d5">0.625</data>
+  <data key="d6">30</data>
+  <data key="d7">48</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1865_wilson_G" target="1866_weller">
+  <data key="d5">0.2057142857142857</data>
+  <data key="d6">36</data>
+  <data key="d7">175</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1865_wilson_G" target="1876_kiepert_G">
+  <data key="d5">0.19298245614035087</data>
+  <data key="d6">55</data>
+  <data key="d7">285</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1865_wilson_G" target="1886_nicole">
+  <data key="d5">0.23414634146341465</data>
+  <data key="d6">48</data>
+  <data key="d7">205</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1865_wilson_G" target="1900_wilson_G">
+  <data key="d5">0.7580645161290323</data>
+  <data key="d6">47</data>
+  <data key="d7">62</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1865_riess" target="1877_unknown">
+  <data key="d5">0.1895424836601307</data>
+  <data key="d6">29</data>
+  <data key="d7">153</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1865_fehr" target="1866_vandevelde">
+  <data key="d5">0.5428571428571428</data>
+  <data key="d6">76</data>
+  <data key="d7">140</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1866_weller" target="1866_unknown">
+  <data key="d5">0.6190476190476191</data>
+  <data key="d6">52</data>
+  <data key="d7">84</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1866_weller" target="1871_howe">
+  <data key="d5">0.6013986013986014</data>
+  <data key="d6">86</data>
+  <data key="d7">143</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1866_weller" target="1871_whitney">
+  <data key="d5">0.6052631578947368</data>
+  <data key="d6">46</data>
+  <data key="d7">76</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1866_weller" target="1873_illes">
+  <data key="d5">0.33962264150943394</data>
+  <data key="d6">36</data>
+  <data key="d7">106</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1866_weller" target="1873_conder">
+  <data key="d5">0.6511627906976745</data>
+  <data key="d6">28</data>
+  <data key="d7">43</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1866_weller" target="1874_unknown">
+  <data key="d5">0.25806451612903225</data>
+  <data key="d6">32</data>
+  <data key="d7">124</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1866_weller" target="1875_weller">
+  <data key="d5">0.16417910447761194</data>
+  <data key="d6">22</data>
+  <data key="d7">134</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1866_weller" target="1876_kiepert_G">
+  <data key="d5">0.3157894736842105</data>
+  <data key="d6">90</data>
+  <data key="d7">285</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1866_weller" target="1880_kiepert">
+  <data key="d5">0.6610169491525424</data>
+  <data key="d6">39</data>
+  <data key="d7">59</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1866_weller" target="1881_unknown">
+  <data key="d5">0.1826086956521739</data>
+  <data key="d6">21</data>
+  <data key="d7">115</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1866_weller" target="1882_unknown">
+  <data key="d5">0.6388888888888888</data>
+  <data key="d6">46</data>
+  <data key="d7">72</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1866_weller" target="1884_perron">
+  <data key="d5">0.1761006289308176</data>
+  <data key="d6">28</data>
+  <data key="d7">159</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1866_weller" target="1887_unknown">
+  <data key="d5">0.6555555555555556</data>
+  <data key="d6">59</data>
+  <data key="d7">90</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1866_weller" target="1888_nicole">
+  <data key="d5">0.7727272727272727</data>
+  <data key="d6">17</data>
+  <data key="d7">22</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1866_weller" target="1889_ruze">
+  <data key="d5">0.6304347826086957</data>
+  <data key="d6">29</data>
+  <data key="d7">46</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1866_vandevelde" target="1873_rawson">
+  <data key="d5">0.3106060606060606</data>
+  <data key="d6">41</data>
+  <data key="d7">132</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1866_unknown" target="1875_unknown_2">
+  <data key="d5">0.5510204081632653</data>
+  <data key="d6">27</data>
+  <data key="d7">49</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1866_unknown" target="1886_PEF">
+  <data key="d5">0.5365853658536586</data>
+  <data key="d6">22</data>
+  <data key="d7">41</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1869_pierotti" target="1872_wolff">
+  <data key="d5">0.7659574468085106</data>
+  <data key="d6">108</data>
+  <data key="d7">141</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1869_pierotti" target="1875_unknown">
+  <data key="d5">0.7441860465116279</data>
+  <data key="d6">32</data>
+  <data key="d7">43</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1869_pierotti" target="1888_pierotti_2">
+  <data key="d5">0.5345911949685535</data>
+  <data key="d6">85</data>
+  <data key="d7">159</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1869_pierotti_2" target="1881_pierotti">
+  <data key="d5">0.6017699115044248</data>
+  <data key="d6">68</data>
+  <data key="d7">113</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1871_howe" target="1874_saunders">
+  <data key="d5">0.627906976744186</data>
+  <data key="d6">27</data>
+  <data key="d7">43</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1871_howe" target="1875_weller">
+  <data key="d5">0.6940298507462687</data>
+  <data key="d6">93</data>
+  <data key="d7">134</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1873_rawson" target="1882_unknown_2">
+  <data key="d5">0.1839080459770115</data>
+  <data key="d6">16</data>
+  <data key="d7">87</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1874_unknown" target="1876_unknown">
+  <data key="d5">0.626984126984127</data>
+  <data key="d6">79</data>
+  <data key="d7">126</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1874_unknown" target="1879_unknown">
+  <data key="d5">0.2230769230769231</data>
+  <data key="d6">29</data>
+  <data key="d7">130</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1875_weller" target="1876_zimmermann">
+  <data key="d5">0.6170212765957447</data>
+  <data key="d6">29</data>
+  <data key="d7">47</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1875_weller" target="1881_guerin">
+  <data key="d5">0.7317073170731707</data>
+  <data key="d6">30</data>
+  <data key="d7">41</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1875_weller" target="1882_thuillier">
+  <data key="d5">0.17204301075268819</data>
+  <data key="d6">16</data>
+  <data key="d7">93</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1875_weller" target="1882_guthe">
+  <data key="d5">0.68</data>
+  <data key="d6">68</data>
+  <data key="d7">100</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1875_weller" target="1887_hurlbut">
+  <data key="d5">0.6804123711340206</data>
+  <data key="d6">66</data>
+  <data key="d7">97</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1875_weller" target="1890_unknown">
+  <data key="d5">0.18018018018018017</data>
+  <data key="d6">20</data>
+  <data key="d7">111</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1875_weller" target="1893_unknown">
+  <data key="d5">0.8148148148148148</data>
+  <data key="d6">44</data>
+  <data key="d7">54</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1879_unknown">
+  <data key="d5">0.43846153846153846</data>
+  <data key="d6">57</data>
+  <data key="d7">130</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1879_conder">
+  <data key="d5">0.4318181818181818</data>
+  <data key="d6">19</data>
+  <data key="d7">44</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1881_unknown">
+  <data key="d5">0.5304347826086957</data>
+  <data key="d6">61</data>
+  <data key="d7">115</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1882_thuillier">
+  <data key="d5">0.7204301075268817</data>
+  <data key="d6">67</data>
+  <data key="d7">93</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1882_guthe">
+  <data key="d5">0.18</data>
+  <data key="d6">18</data>
+  <data key="d7">100</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1884_perron">
+  <data key="d5">0.5220125786163522</data>
+  <data key="d6">83</data>
+  <data key="d7">159</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1876_kiepert_G" target="188-_unknown">
+  <data key="d5">0.615819209039548</data>
+  <data key="d6">109</data>
+  <data key="d7">177</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1885_muret">
+  <data key="d5">0.49504950495049505</data>
+  <data key="d6">50</data>
+  <data key="d7">101</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1885_unknown">
+  <data key="d5">0.6774193548387096</data>
+  <data key="d6">21</data>
+  <data key="d7">31</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1886_nicole">
+  <data key="d5">0.5219512195121951</data>
+  <data key="d6">107</data>
+  <data key="d7">205</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1887_hurlbut">
+  <data key="d5">0.1958762886597938</data>
+  <data key="d6">19</data>
+  <data key="d7">97</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1887_riess">
+  <data key="d5">0.7837837837837838</data>
+  <data key="d6">58</data>
+  <data key="d7">74</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1888_pierotti">
+  <data key="d5">0.5342960288808665</data>
+  <data key="d6">148</data>
+  <data key="d7">277</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1891_unknown">
+  <data key="d5">0.17355371900826447</data>
+  <data key="d6">21</data>
+  <data key="d7">121</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1894_schick">
+  <data key="d5">0.4004424778761062</data>
+  <data key="d6">181</data>
+  <data key="d7">452</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1895_unknown_2">
+  <data key="d5">0.6028368794326241</data>
+  <data key="d6">170</data>
+  <data key="d7">282</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1876_kiepert_G" target="189-_unknown_2">
+  <data key="d5">0.17197452229299362</data>
+  <data key="d6">27</data>
+  <data key="d7">157</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1876_kiepert_G" target="189-_unknown">
+  <data key="d5">0.5888888888888889</data>
+  <data key="d6">53</data>
+  <data key="d7">90</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1895_riess">
+  <data key="d5">0.16853932584269662</data>
+  <data key="d6">15</data>
+  <data key="d7">89</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1895_unknown">
+  <data key="d5">0.6024096385542169</data>
+  <data key="d6">50</data>
+  <data key="d7">83</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1901_unknown">
+  <data key="d5">0.15966386554621848</data>
+  <data key="d6">38</data>
+  <data key="d7">238</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1902_unknown">
+  <data key="d5">0.16964285714285715</data>
+  <data key="d6">19</data>
+  <data key="d7">112</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1903_unknown">
+  <data key="d5">0.16417910447761194</data>
+  <data key="d6">22</data>
+  <data key="d7">134</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1907_unknown_2">
+  <data key="d5">0.16182572614107885</data>
+  <data key="d6">39</data>
+  <data key="d7">241</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1907_unknown_4">
+  <data key="d5">0.19626168224299065</data>
+  <data key="d6">21</data>
+  <data key="d7">107</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1912_unknown">
+  <data key="d5">0.5101351351351351</data>
+  <data key="d6">151</data>
+  <data key="d7">296</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1876_kiepert_G" target="1913_unknown">
+  <data key="d5">0.2074074074074074</data>
+  <data key="d6">28</data>
+  <data key="d7">135</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1879_unknown" target="1891_unknown">
+  <data key="d5">0.5785123966942148</data>
+  <data key="d6">70</data>
+  <data key="d7">121</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1880_kiepert" target="1888_unknown">
+  <data key="d5">0.6363636363636364</data>
+  <data key="d6">21</data>
+  <data key="d7">33</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1882_house_G" target="1885_barkdull">
+  <data key="d5">0.8118811881188119</data>
+  <data key="d6">82</data>
+  <data key="d7">101</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1884_perron" target="1885_muret">
+  <data key="d5">0.16831683168316833</data>
+  <data key="d6">17</data>
+  <data key="d7">101</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1885_muret" target="1899_unknown_2">
+  <data key="d5">0.6226415094339622</data>
+  <data key="d6">33</data>
+  <data key="d7">53</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1886_nicole" target="1890_unknown">
+  <data key="d5">0.5675675675675675</data>
+  <data key="d6">63</data>
+  <data key="d7">111</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1887_unknown" target="1893_nicole">
+  <data key="d5">0.7435897435897436</data>
+  <data key="d6">29</data>
+  <data key="d7">39</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1894_schick" target="189-_unknown_2">
+  <data key="d5">0.6305732484076433</data>
+  <data key="d6">99</data>
+  <data key="d7">157</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1894_schick" target="1898_schneller">
+  <data key="d5">0.6481481481481481</data>
+  <data key="d6">175</data>
+  <data key="d7">270</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1894_schick" target="1901_unknown">
+  <data key="d5">0.5882352941176471</data>
+  <data key="d6">140</data>
+  <data key="d7">238</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1894_schick" target="1904_kuemmel">
+  <data key="d5">0.72</data>
+  <data key="d6">54</data>
+  <data key="d7">75</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1894_schick" target="1905_schick">
+  <data key="d5">0.728310502283105</data>
+  <data key="d6">319</data>
+  <data key="d7">438</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1894_schick" target="1906_hanauer">
+  <data key="d5">0.640661938534279</data>
+  <data key="d6">271</data>
+  <data key="d7">423</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1894_schick" target="1907_unknown_2">
+  <data key="d5">0.5684647302904564</data>
+  <data key="d6">137</data>
+  <data key="d7">241</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1894_schick" target="1917_surveyOfEgypt_G">
+  <data key="d5">0.5938864628820961</data>
+  <data key="d6">272</data>
+  <data key="d7">458</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1894_schick" target="1920_zionistcommission_G">
+  <data key="d5">0.7547892720306514</data>
+  <data key="d6">394</data>
+  <data key="d7">522</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="189-_unknown_2" target="1895_riess">
+  <data key="d5">0.7078651685393258</data>
+  <data key="d6">63</data>
+  <data key="d7">89</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="189-_unknown_2" target="1896_unknown">
+  <data key="d5">0.7228915662650602</data>
+  <data key="d6">60</data>
+  <data key="d7">83</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="189-_unknown_2" target="1896_philip">
+  <data key="d5">0.6714285714285714</data>
+  <data key="d6">47</data>
+  <data key="d7">70</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="189-_unknown_2" target="1899_unknown_3">
+  <data key="d5">0.6744186046511628</data>
+  <data key="d6">29</data>
+  <data key="d7">43</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="189-_unknown_2" target="1902_unknown">
+  <data key="d5">0.5803571428571429</data>
+  <data key="d6">65</data>
+  <data key="d7">112</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="189-_unknown_2" target="1903_unknown">
+  <data key="d5">0.6716417910447762</data>
+  <data key="d6">90</data>
+  <data key="d7">134</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="189-_unknown_2" target="1904_unknown">
+  <data key="d5">0.7837837837837838</data>
+  <data key="d6">87</data>
+  <data key="d7">111</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="189-_unknown_2" target="1905_unknown">
+  <data key="d5">0.5760869565217391</data>
+  <data key="d6">53</data>
+  <data key="d7">92</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="189-_unknown_2" target="1906_unknown">
+  <data key="d5">0.6483516483516484</data>
+  <data key="d6">59</data>
+  <data key="d7">91</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="189-_unknown_2" target="1907_unknown_3">
+  <data key="d5">0.46808510638297873</data>
+  <data key="d6">44</data>
+  <data key="d7">94</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="189-_unknown_2" target="1907_unknown">
+  <data key="d5">0.7777777777777778</data>
+  <data key="d6">42</data>
+  <data key="d7">54</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="189-_unknown_2" target="1912_conder">
+  <data key="d5">0.20270270270270271</data>
+  <data key="d6">30</data>
+  <data key="d7">148</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="189-_unknown_2" target="1912_ruze_G">
+  <data key="d5">0.8245614035087719</data>
+  <data key="d6">47</data>
+  <data key="d7">57</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="189-_unknown_2" target="1915_unknown">
+  <data key="d5">0.6230769230769231</data>
+  <data key="d6">81</data>
+  <data key="d7">130</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1898_schneller" target="1912_conder">
+  <data key="d5">0.6013513513513513</data>
+  <data key="d6">89</data>
+  <data key="d7">148</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1905_schick" target="1911_vincent">
+  <data key="d5">0.4378585086042065</data>
+  <data key="d6">229</data>
+  <data key="d7">523</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1905_schick" target="1913_unknown">
+  <data key="d5">0.4962962962962963</data>
+  <data key="d6">67</data>
+  <data key="d7">135</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1906_hanauer" target="1906_unknown">
+  <data key="d5">0.18681318681318682</data>
+  <data key="d6">17</data>
+  <data key="d7">91</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1906_unknown" target="1907_unknown_4">
+  <data key="d5">0.5981308411214953</data>
+  <data key="d6">64</data>
+  <data key="d7">107</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1911_vincent" target="1912_vincent">
+  <data key="d5">0.7796610169491526</data>
+  <data key="d6">414</data>
+  <data key="d7">531</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1912_vincent" target="1919_chagise">
+  <data key="d5">0.1615598885793872</data>
+  <data key="d6">58</data>
+  <data key="d7">359</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1917_surveyOfEgypt_G" target="1917_surveyOfEgypt_3">
+  <data key="d5">0.8270676691729323</data>
+  <data key="d6">330</data>
+  <data key="d7">399</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1917_surveyOfEgypt_G" target="1917_surveyOfEgypt_4">
+  <data key="d5">0.8648648648648649</data>
+  <data key="d6">96</data>
+  <data key="d7">111</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1917_surveyOfEgypt_G" target="1919_chagise">
+  <data key="d5">0.49303621169916434</data>
+  <data key="d6">177</data>
+  <data key="d7">359</data>
+  <data key="d8">secondary</data>
+</edge>
+<edge source="1917_surveyOfEgypt_G" target="1922_palestineLandDevelopment_G">
+  <data key="d5">0.6897081413210445</data>
+  <data key="d6">449</data>
+  <data key="d7">651</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1917_surveyOfEgypt_G" target="1923_hausermann_2">
+  <data key="d5">0.7868852459016393</data>
+  <data key="d6">48</data>
+  <data key="d7">61</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1920_zionistcommission_G" target="1924_surveyOfEgypt_G">
+  <data key="d5">0.7882136279926335</data>
+  <data key="d6">428</data>
+  <data key="d7">543</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1922_palestineLandDevelopment_G" target="1923_hausermann">
+  <data key="d5">0.7842696629213484</data>
+  <data key="d6">349</data>
+  <data key="d7">445</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1922_palestineLandDevelopment_G" target="19--_unknown">
+  <data key="d5">0.5</data>
+  <data key="d6">46</data>
+  <data key="d7">92</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1924_surveyOfEgypt_G" target="1924_cook">
+  <data key="d5">0.7136150234741784</data>
+  <data key="d6">152</data>
+  <data key="d7">213</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1924_surveyOfEgypt_G" target="1925_monzon">
+  <data key="d5">0.7733990147783252</data>
+  <data key="d6">314</data>
+  <data key="d7">406</data>
+  <data key="d8">primary</data>
+</edge>
+<edge source="1924_surveyOfEgypt_G" target="1925_americanColony">
+  <data key="d5">0.8079470198675497</data>
+  <data key="d6">122</data>
+  <data key="d7">151</data>
+  <data key="d8">primary</data>
+</edge>
+</graph></graphml>

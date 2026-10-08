@@ -1,0 +1,28 @@
+# Conda environment for the full pipeline (geospatial stages need GDAL/rasterio,
+# which install reliably from conda-forge). For the stemma-only path and the unit
+# tests, plain `pip install pandas numpy scipy scikit-learn networkx` is enough.
+name: cartostemma
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - scikit-image
+  - shapely
+  - rasterio
+  - pyproj
+  - gdal
+  - geopandas
+  - opencv
+  - alphashape
+  - networkx
+  - pyarrow
+  - tqdm
+  - pyyaml
+  - matplotlib
+  - seaborn
+  - pytest
+  - pip
